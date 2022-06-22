@@ -16,7 +16,7 @@
                         <div class="bg-white lg:mt-16 py-4 px-4 flex flex-col sm:flex-row justify-start sm:justify-between items-start sm:items-center shadow-lg rounded-lg">
                             <div class="sm:flex items-center py-2">
                                 <div class="flex items-center">
-                                   <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/right_aligned_with_searchbar_Svg4.svg" alt="icon" />
+                                    <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/right_aligned_with_searchbar_Svg4.svg" alt="icon" />
                                     <input aria-label="Doctor name" disabled class="w-24 xl:w-32 leading-none tracking-normal text-gray-800 dark:text-white ml-2.5 placeholder-black" placeholder="Backend Dev" />
                                 </div>
                                 <div class="flex items-center sm:mx-4 xl:mx-14 my-6 lg:my-0">

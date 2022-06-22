@@ -26,7 +26,7 @@
             </div>
         </div>
         <div class="lg:w-1/2 lg:mt-0 mt-16">
-            <div class="bg-white dark:bg-gray-800  dark:bg-gray-800  border rounded-md border-gray-200 dark:border-gray-700  relative sm:p-10 p-6">
+            <div class="bg-white dark:bg-gray-80 border rounded-md border-gray-200 dark:border-gray-700  relative sm:p-10 p-6">
                 <div>
                     <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/testimonials-4-svg1.svg" alt="commas" />
                 </div>
@@ -46,7 +46,7 @@
             </div>
         </div>
         <div class="lg:w-1/2 lg:mt-0 mt-16">
-            <div class="bg-white dark:bg-gray-800  dark:bg-gray-800  border rounded-md border-gray-200 dark:border-gray-700  relative sm:p-10 p-6">
+            <div class="bg-white dark:bg-gray-800 border rounded-md border-gray-200 dark:border-gray-700  relative sm:p-10 p-6">
                 <div>
                     <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/testimonials-4-svg1.svg" alt="commas" />
                 </div>
