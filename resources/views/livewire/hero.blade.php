@@ -6,7 +6,7 @@
                 <div class="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-32 lg:flex items-center relative z-10 container mx-auto">
                     <div  role="contentinfo"  class="w-full lg:w-1/2 h-full">
                         <p tabindex="0" class="text-white uppercase text-2xl mb-4">Full Stack Engeener</p>
-                        <h1 tabindex="0" class="text-white text-4xl lg:text-6xl font-black mb-8">Hi, am Patience Manirabona</h1>
+                        <h1 tabindex="0" class="text-white text-4xl lg:text-6xl font-black mb-8 bg-clip-text bg-gradient-to-r from-green-300 via-blue-500 to-purple-600">Hi, am Patience Manirabona</h1>
                         <p tabindex="0" class="text-white dark:text-white font-regular mb-8">
                             Full-stack developer with 4 years of experience in JavaScript, PHP, and SQL
                             including some libraries and frameworks like In JavaScript(React js, Node js, Express Js, …),

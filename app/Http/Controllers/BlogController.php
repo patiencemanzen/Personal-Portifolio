@@ -12,7 +12,7 @@
          * @return \Illuminate\Http\Response
          */
         public function index() {
-            return view('blogs');
+            return view('blogs.blogs');
         }
 
         /**
@@ -40,8 +40,8 @@
          * @param  int  $id
          * @return \Illuminate\Http\Response
          */
-        public function show(Blog $blog) {
-            return view('single_blog', compact('blog'));
+        public function show($Blog) {
+            return view('blogs.single_blog');
         }
 
         /**
