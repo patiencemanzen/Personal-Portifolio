@@ -26,11 +26,14 @@
             </div>
         </div>
         <div class="lg:w-1/2 lg:mt-0 mt-16">
-            <div class="bg-white dark:bg-gray-80 border rounded-md border-gray-200 dark:border-gray-700  relative sm:p-10 p-6">
+            <div class="bg-white dark:bg-gray-800 border rounded-md border-gray-200 dark:border-gray-700  relative sm:p-10 p-6">
                 <div>
                     <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/testimonials-4-svg1.svg" alt="commas" />
                 </div>
-                <p class="text-base leading-6 text-gray-600 dark:text-white  mt-4">When our designs need an expert opinion or approval, I know I can rely on your agency Thank you for all your help-I will be recommending you to everyone</p>
+                <p class="text-base leading-6 text-gray-600 dark:text-white  mt-4">
+                    When our designs need an expert opinion or approval, I know I can rely on your
+                    agency Thank you for all your help-I will be recommending you to everyone
+                </p>
                 <div class="absolute bottom-0 -mb-4 ml-10">
                    <img class="dark:hidden" src="https://tuk-cdn.s3.amazonaws.com/can-uploader/testimonials-4-svg2.svg" alt="sharp" />
                 </div>
@@ -40,8 +43,8 @@
                     <img src="https://i.ibb.co/C6bwf12/Mask-Group.png" class="w-10 h-10 rounded-full" alt="profile"/>
                 </div>
                 <div class="flex flex-col items-start ml-4">
-                    <p class="text-base font-semibold leading-4 text-gray-800 dark:text-white ">Henry Jack</p>
-                    <p class="text-base leading-4 mt-2 text-center text-gray-600 dark:text-white ">Frontend developer</p>
+                    <p class="text-base font-semibold leading-4 text-gray-800 dark:text-white ">Hirwa Nshut Landry</p>
+                    <p class="text-base leading-4 mt-2 text-center text-gray-600 dark:text-white ">Full-stack developer</p>
                 </div>
             </div>
         </div>
@@ -50,7 +53,11 @@
                 <div>
                     <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/testimonials-4-svg1.svg" alt="commas" />
                 </div>
-                <p class="text-base leading-6 text-gray-600 dark:text-white  mt-4">When our designs need an expert opinion or approval, I know I can rely on your agency Thank you for all your help-I will be recommending you to everyone</p>
+                <p class="text-base leading-6 text-gray-600 dark:text-white  mt-4">
+                    When our designs need an expert opinion or approval,
+                    I know I can rely on your agency Thank you for all your
+                    help-I will be recommending you to everyone
+                </p>
                 <div class="absolute bottom-0 -mb-4 ml-10">
                    <img class="dark:hidden" src="https://tuk-cdn.s3.amazonaws.com/can-uploader/testimonials-4-svg2.svg" alt="sharp" />
                 </div>
@@ -60,8 +67,8 @@
                     <img src="https://i.ibb.co/C6bwf12/Mask-Group.png" class="w-10 h-10 rounded-full" alt="profile"/>
                 </div>
                 <div class="flex flex-col items-start ml-4">
-                    <p class="text-base font-semibold leading-4 text-gray-800 dark:text-white ">Henry Jack</p>
-                    <p class="text-base leading-4 mt-2 text-center text-gray-600 dark:text-white ">Database Administrator</p>
+                    <p class="text-base font-semibold leading-4 text-gray-800 dark:text-white ">Sezerano Jean Chrisostome</p>
+                    <p class="text-base leading-4 mt-2 text-center text-gray-600 dark:text-white ">Senior Full-stack Developer</p>
                 </div>
             </div>
         </div>
