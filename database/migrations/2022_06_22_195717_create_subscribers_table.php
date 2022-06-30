@@ -13,8 +13,8 @@
         public function up() {
             Schema::create('subscribers', function (Blueprint $table) {
                 $table->id();
-                $table->string('Email');
-                $table->string('Fullname');
+                $table->string('email')->unique();
+                $table->string('fullname');
                 $table->timestamps();
             });
         }
