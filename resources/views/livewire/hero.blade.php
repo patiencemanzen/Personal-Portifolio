@@ -1,7 +1,7 @@
 
         <section>
             <div class="w-full relative pb-10 px-6 xl:px-0">
-                <img class="absolute w-full inset-0 h-full object-cover object-center" src="/storage/images/battle.jpg" alt="we care family"/>
+                <img class="absolute w-full inset-0 h-full object-cover object-center" src="https://images3.alphacoders.com/202/202489.jpg" alt="we care family"/>
 
                 <div class="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-32 lg:flex items-center relative z-10 container mx-auto">
                     <div  role="contentinfo"  class="w-full lg:w-1/2 h-full">
