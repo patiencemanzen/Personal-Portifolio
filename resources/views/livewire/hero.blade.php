@@ -29,7 +29,7 @@
                                 </div>
                                 <div class="flex items-center">
                                     <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/right_aligned_with_searchbar_Svg6.svg" alt="icon" />
-                                    <input aria-label="insurance" disabled class="w-36 xl:w-32 leading-none tracking-normal text-gray-800 dark:text-white ml-2.5 placeholder-black" placeholder="Database" />
+                                    <input aria-label="insurance" disabled class="w-40 xl:w-40 leading-none tracking-normal text-gray-800 dark:text-white ml-2.5 placeholder-black" placeholder="NoSql/Relation Database" />
                                 </div>
                             </div>
                         </div>
