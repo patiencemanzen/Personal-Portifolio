@@ -92,8 +92,8 @@
                     <div class="tooltip-arrow" data-popper-arrow="" style="position: absolute; left: 0px; transform: translate(69px, 0px);"></div>
                 </div>
 
-                <a href="/blogs" class="md:hidden inline-flex items-center text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center ml-3" style="background: #bfd291">Articles</a>
-                <a href="/blogs" class="hidden md:inline-flex items-center text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center ml-3" style="background: #bfd291">Blogs & Articles</a>
+                {{-- <a href="/blogs" class="md:hidden inline-flex items-center text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center ml-3" style="background: #bfd291">Articles</a> --}}
+                {{-- <a href="/blogs" class="hidden md:inline-flex items-center text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center ml-3" style="background: #bfd291">Blogs & Articles</a> --}}
               </div>
         </div>
     </div>
