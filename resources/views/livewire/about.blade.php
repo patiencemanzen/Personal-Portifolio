@@ -18,8 +18,8 @@
     </div>
 
     <div class="lg:mt-14 sm:mt-10 mt-12">
-        <img class="lg:block hidden w-full rounded-md object-cover h-60 object-scale-up" src="https://www.vitaway.org/patienceman-images/events.png" alt="Manirabona Patience in Google developer Kigali DevFest" />
-        <img class="lg:hidden sm:block hidden w-full object-cover h-60 object-scale-up" src="https://www.vitaway.org/patienceman-images/events.png" alt="Manirabona Patience in Google developer Kigali DevFest" />
-        <img class="sm:hidden block w-full object-cover h-60 object-scale-up" src="https://www.vitaway.org/patienceman-images/events.png" alt="Manirabona Patience in Google developer Kigali DevFest" />
+        <img class="lg:block hidden w-full rounded-md object-cover h-56 object-scale-up" src="https://www.vitaway.org/patienceman-images/events.png" alt="Manirabona Patience in Google developer Kigali DevFest" />
+        <img class="lg:hidden sm:block hidden w-full object-cover h-56 object-scale-up" src="https://www.vitaway.org/patienceman-images/events.png" alt="Manirabona Patience in Google developer Kigali DevFest" />
+        <img class="sm:hidden block w-full object-cover h-56 object-scale-up" src="https://www.vitaway.org/patienceman-images/events.png" alt="Manirabona Patience in Google developer Kigali DevFest" />
     </div>
 </div>
