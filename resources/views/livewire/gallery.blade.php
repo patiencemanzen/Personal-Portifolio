@@ -1,6 +1,6 @@
 
 <h1 role="heading" class="text-center xl:text-5xl md:text-4xl text-2xl font-bold text-gray-800 dark:text-white mt-28">Back In Time</h1>
-<p role="contentinfo" class="text-base leading-normal text-center text-gray-600 dark:text-gray-200 mt-4">Whether article spirits new her covered hastily sitting her. Money witty books nor son</p>
+<p role="contentinfo" class="text-base leading-normal text-center text-gray-600 dark:text-gray-200 mt-4">Change is the law of life. And those who look only to the past or present are certain to miss the future.</p>
 
 <div class="2xl:container 2xl:mx-auto flex flex-wrap items-start justify-center pt-6 gap-6 mt-10">
     <div class="flex lg:flex-col sm:flex-row flex-col items-start lg:gap-0 gap-6 lg:w-96 w-auto">
