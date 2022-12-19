@@ -21,7 +21,7 @@
                     <div class="cursor-pointer w-12">
                         <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_5_marketing_svg1.svg" alt="logo">
                     </div>
-                    <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white ml-4">PatienceMan</span>
+                    <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white ml-4" style="font-family: 'Anek Telugu', sans-serif; font-weight: 700">PatienceMan</span>
                   </a>
                   <div id="tooltip-logo-1" role="tooltip" class="inline-block absolute invisible z-10 py-2 px-3 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 transition-opacity duration-300 tooltip" data-popper-placement="top" style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(1186px, -64px);">
                     Patience Manirabona Logo
@@ -33,35 +33,35 @@
               <div class="flex items-center">
                 <ul id="flowbiteMenu" class="hidden flex-col pt-6 lg:flex-row lg:self-center lg:py-0 lg:flex">
                   <li class="mb-3 lg:px-2 xl:px-3 lg:mb-0">
-                    <a href="https://twitter.com/ManirabonaW" data-tooltip-target="tooltip-twitter" class="text-sm font-medium text-gray-900 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-500">Twitter</a>
+                    <a href="https://twitter.com/ManirabonaW" data-tooltip-target="tooltip-twitter" class="text-sm font-medium text-gray-900 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-500" style="font-family: 'Anek Telugu', sans-serif; font-weight: 700">Twitter</a>
                     <div id="tooltip-twitter" role="tooltip" class="inline-block absolute invisible z-10 py-2 px-3 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 transition-opacity duration-300 tooltip" data-popper-placement="top" style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(1186px, -64px);">
                         Find Patience Manirabona On Twitter
                         <div class="tooltip-arrow" data-popper-arrow="" style="position: absolute; left: 0px; transform: translate(99px, 0px);"></div>
                     </div>
                   </li>
                   <li class="mb-3 lg:px-2 xl:px-3 lg:mb-0">
-                    <a href="https://www.facebook.com/nolanil.manirabona" data-tooltip-target="tooltip-facebook" class="text-sm font-medium text-gray-900 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-500">Facebook</a>
+                    <a href="https://www.facebook.com/nolanil.manirabona" data-tooltip-target="tooltip-facebook" class="text-sm font-medium text-gray-900 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-500" style="font-family: 'Anek Telugu', sans-serif; font-weight: 700">Facebook</a>
                     <div id="tooltip-facebook" role="tooltip" class="inline-block absolute invisible z-10 py-2 px-3 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 transition-opacity duration-300 tooltip" data-popper-placement="top" style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(1186px, -64px);">
                         Find Patience Manirabona On Facebook
                         <div class="tooltip-arrow" data-popper-arrow="" style="position: absolute; left: 0px; transform: translate(99px, 0px);"></div>
                     </div>
                   </li>
                   <li class="mb-3 lg:px-2 xl:px-3 lg:mb-0">
-                    <a href="https://www.linkedin.com/in/manirabona-patience-3b08051b4/" data-tooltip-target="tooltip-linkedin" class="text-sm font-medium text-gray-900 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-500">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/manirabona-patience-3b08051b4/" data-tooltip-target="tooltip-linkedin" class="text-sm font-medium text-gray-900 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-500" style="font-family: 'Anek Telugu', sans-serif; font-weight: 700">LinkedIn</a>
                     <div id="tooltip-linkedin" role="tooltip" class="inline-block absolute invisible z-10 py-2 px-3 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 transition-opacity duration-300 tooltip" data-popper-placement="top" style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(1186px, -64px);">
                         Find Patience Manirabona On LinkedIn
                         <div class="tooltip-arrow" data-popper-arrow="" style="position: absolute; left: 0px; transform: translate(99px, 0px);"></div>
                     </div>
                   </li>
                   <li class="mb-3 lg:px-2 xl:px-3 lg:mb-0">
-                    <a href="https://www.instagram.com/manirabona_walker/" data-tooltip-target="tooltip-insta" class="text-sm font-medium text-gray-900 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-500">Instagram</a>
+                    <a href="https://www.instagram.com/manirabona_walker/" data-tooltip-target="tooltip-insta" class="text-sm font-medium text-gray-900 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-500" style="font-family: 'Anek Telugu', sans-serif; font-weight: 700">Instagram</a>
                     <div id="tooltip-insta" role="tooltip" class="inline-block absolute invisible z-10 py-2 px-3 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 transition-opacity duration-300 tooltip" data-popper-placement="top" style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(1186px, -64px);">
                         Find Patience Manirabona On Instagram
                         <div class="tooltip-arrow" data-popper-arrow="" style="position: absolute; left: 0px; transform: translate(99px, 0px);"></div>
                     </div>
                   </li>
                   <li class="mb-3 lg:px-2 xl:px-3 lg:mb-0">
-                    <a href="https://mail.google.com/mail/u/?authuser=user@gmail.com" data-tooltip-target="tooltip-email" class="text-sm font-medium text-gray-900 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-500">Gmail</a>
+                    <a href="https://mail.google.com/mail/u/?authuser=user@gmail.com" data-tooltip-target="tooltip-email" class="text-sm font-medium text-gray-900 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-500" style="font-family: 'Anek Telugu', sans-serif; font-weight: 700">Gmail</a>
                     <div id="tooltip-email" role="tooltip" class="inline-block absolute invisible z-10 py-2 px-3 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 transition-opacity duration-300 tooltip" data-popper-placement="top" style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(1186px, -64px);">
                         Contact with Patience Manirabona via email
                         <div class="tooltip-arrow" data-popper-arrow="" style="position: absolute; left: 0px; transform: translate(99px, 0px);"></div>

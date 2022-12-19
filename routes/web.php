@@ -1,8 +1,8 @@
 <?php
 
     use App\Http\Controllers\BlogController;
-use App\Http\Controllers\HomeController;
-use Illuminate\Support\Facades\Route;
+    use App\Http\Controllers\HomeController;
+    use Illuminate\Support\Facades\Route;
 
     /*
     |--------------------------------------------------------------------------
@@ -14,6 +14,12 @@ use Illuminate\Support\Facades\Route;
     | contains the "web" middleware group. Now create something great!
     |
     */
+
+    /**
+     * change font family
+     * update skills
+     * add fixed images
+     */
 
     Route::get('/', [HomeController::class, 'index']);
     Route::resource('/blogs', BlogController::class);

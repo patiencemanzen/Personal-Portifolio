@@ -1,7 +1,7 @@
 <div class="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4">
     <div class="flex flex-col items-center justify-center">
         <h1 class="lg:text-4xl text-3xl font-bold text-center text-gray-800 dark:text-white ">Hear what they Say</h1>
-        <p class="text-base leading-6 mt-4 text-center text-gray-600 dark:text-white  2xl:w-2/5 ">Here is why you should trust me with your work achievements</p>
+        <p class="text-base leading-6 mt-4 text-center text-gray-600 dark:text-white  2xl:w-2/5 " style="font-weight: 500;font-size:20px">Here is why you should trust me with your work achievements</p>
     </div>
     <div class="w-full lg:flex items-center gap-6 mt-10">
         <div class="lg:w-1/2">
@@ -10,7 +10,7 @@
                     <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/testimonials-4-svg1.svg" alt="commas" />
                 </div>
 
-                <p class="text-base leading-6 text-gray-600 dark:text-white  mt-4">When our designs need an expert opinion or approval, I know I can rely on your agency Thank you for all your help-I will be recommending you to everyone</p>
+                <p class="text-base leading-6 text-gray-600 dark:text-white  mt-4" style="font-weight: 500;font-size:20px">When our designs need an expert opinion or approval, I know I can rely on your agency Thank you for all your help-I will be recommending you to everyone</p>
                 <div class="absolute bottom-0 -mb-4 ml-10">
                     <img class="dark:hidden" src="https://tuk-cdn.s3.amazonaws.com/can-uploader/testimonials-4-svg2.svg" alt="sharp" />
                 </div>
@@ -30,7 +30,7 @@
                 <div>
                     <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/testimonials-4-svg1.svg" alt="commas" />
                 </div>
-                <p class="text-base leading-6 text-gray-600 dark:text-white  mt-4">
+                <p class="text-base leading-6 text-gray-600 dark:text-white  mt-4" style="font-weight: 500;font-size:20px">
                     When our designs need an expert opinion or approval, I know I can rely on your
                     agency Thank you for all your help-I will be recommending you to everyone
                 </p>
@@ -53,7 +53,7 @@
                 <div>
                     <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/testimonials-4-svg1.svg" alt="commas" />
                 </div>
-                <p class="text-base leading-6 text-gray-600 dark:text-white  mt-4">
+                <p class="text-base leading-6 text-gray-600 dark:text-white  mt-4" style="font-weight: 500;font-size:20px">
                     When our designs need an expert opinion or approval,
                     I know I can rely on your agency Thank you for all your
                     help-I will be recommending you to everyone
