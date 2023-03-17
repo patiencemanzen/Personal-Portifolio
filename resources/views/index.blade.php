@@ -4,18 +4,12 @@
 
 @section('content')
     <livewire:navbar />
-
     <livewire:hero />
-
+    <livewire:technologies />
     <livewire:about />
-
     <livewire:projects />
-
     <livewire:testimonial />
-
-    <livewire:blog />
-
-    <livewire:gallery />
-
+    {{-- <livewire:blog /> --}}
+    {{-- <livewire:gallery /> --}}
     <livewire:footer />
 @stop
