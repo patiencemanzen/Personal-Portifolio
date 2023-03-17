@@ -82,7 +82,7 @@
                     1
                 </p>
                 <div class="h-6"></div>
-                <p class="text-3xl text-white"><span class="font-bold">norldverse.app</span> <br> Online Books</p>
+                <p class="text-3xl text-white"><span class="font-bold">Hellokigali.com</span> <br> Online Books</p>
             </div>
         </a>
         <a href="https://www.vitaway.org">
@@ -94,7 +94,7 @@
                 </p>
                 <div class="h-6"></div>
                 <p class="text-3xl text-white">
-                    <span class="font-bold">vitaway.org</span> <br> E-clinic Website
+                    <span class="font-bold">Candidate.rw</span> <br> E-clinic Website
                 </p>
             </div>
         </a>
@@ -107,7 +107,7 @@
                 </p>
                 <div class="h-6"></div>
                 <p class="text-3xl text-white">
-                    <span class="font-bold">vitaway account</span> <br> Online Medical Rec</p>
+                    <span class="font-bold">Vitaway.org</span> <br> Online Medical Rec</p>
             </div>
         </a>
     </div>
