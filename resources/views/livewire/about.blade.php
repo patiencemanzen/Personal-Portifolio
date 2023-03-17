@@ -1,5 +1,4 @@
-<div
-    class="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto">
+<div class="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto">
     <div class="lg:w-10/12 w-full">
         <p
             class="font-bold mb-2 text-md leading-3 text-black-700 dark:text-indigo-500 hover:text-indigo-800 cursor-pointer">
@@ -20,21 +19,20 @@
             When am not coding! i usually spent my time in books and photography!.
         </p>
     </div>
-
-    <div class="professional">
-        <figure class="card">
-            <img src="/img/profile.png" width="640" height="640" alt="" />
-            <figcaption>
-                <blockquote>
-                    We shape our tools and then the tools shape us.
-                </blockquote>
-                <cite>when you believe in something so strongly and keep on pushing it so persistently,
-                    somehow you can make the impossible possible. and Ideas in different topics or fields
-                    can often inspire new ideas and broaden the potential solution space.</cite>
-                <p class="credit"> <strong>Google Developer Kigali DevFest</strong></p>
-            </figcaption>
-        </figure>
-    </div>
+</div>
+<div class="professional">
+    <figure class="card">
+        <img src="/img/profile.png" width="640" height="640" alt="" />
+        <figcaption>
+            <blockquote>
+                We shape our tools and then the tools shape us.
+            </blockquote>
+            <cite>when you believe in something so strongly and keep on pushing it so persistently,
+                somehow you can make the impossible possible. and Ideas in different topics or fields
+                can often inspire new ideas and broaden the potential solution space.</cite>
+            <p class="credit"> <strong>Google Developer Kigali DevFest</strong></p>
+        </figcaption>
+    </figure>
 </div>
 <style>
     :root {
@@ -52,8 +50,8 @@
         display: flex;
         width: 100%;
         height: 82vh;
-        justify-content: left;
-        align-items: left;
+        justify-content: center;
+        align-items: center;
         font-family: 'Anek Telugu', sans-serif;
     }
 
@@ -70,7 +68,7 @@
             var(--indent) calc(3 * var(--indent)) 1fr 1fr calc(2 * var(--indent)) var(--indent);
         grid-template-rows:
             var(--indent) calc(3 * var(--indent)) 1fr calc(2 * var(--indent)) var(--indent);
-        max-width: 60rem;
+        max-width: 70rem;
     }
 
     .professional .card::before {
@@ -103,6 +101,7 @@
         box-shadow: 0 0 1rem hsla(0, 0%, 0%, 0.3);
         object-fit: cover;
         aspect-ratio: 1 / 1;
+        border-radius: 10px;
     }
 
     .professional .card figcaption {
@@ -113,10 +112,9 @@
     }
 
     .professional .card blockquote {
-        grid-column: 1/3;
+        grid-column: 1/2;
         margin: 0;
         padding-bottom: 1rem;
-        /* font-size: clamp(2rem, 2.5vw, 3rem); */
         font-size: 3rem;
         font-weight: 600;
         align-self: flex-end;
@@ -143,5 +141,17 @@
 
     .professional .card a {
         color: white;
+    }
+
+    @media only screen and (max-width: 1023px) {
+        .professional {
+            margin: 30px 0px 0px 0px;
+            display: flex;
+            width: 100%;
+            height: 140vh;
+            justify-content: left;
+            align-items: left;
+            font-family: 'Anek Telugu', sans-serif;
+        }
     }
 </style>

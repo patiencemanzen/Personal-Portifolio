@@ -36,6 +36,9 @@
         background: transparent;
         width: 100%;
         position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
     .tech-section-container {
         display: grid;
@@ -44,7 +47,7 @@
         padding: 1rem;
         position: absolute;
         top: -130px;
-        width: 100%;
+        width: 90%;
         height: 100%
     }
 
@@ -81,5 +84,17 @@
         text-align: center;
         font-weight: 500;
         line-height: 20px
+    }
+
+    @media only screen and (max-width: 992px) {
+        .tech-section {
+            height: 660px;
+        }
+    }
+
+    @media only screen and (max-width: 511px) {
+        .tech-section {
+            height: 1450px;
+        }
     }
 </style>
