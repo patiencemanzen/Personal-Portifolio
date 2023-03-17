@@ -5,6 +5,7 @@
 @section('content')
     <livewire:navbar />
     <livewire:hero />
+    <livewire:technologies />
     <livewire:about />
     <livewire:projects />
     <livewire:testimonial />

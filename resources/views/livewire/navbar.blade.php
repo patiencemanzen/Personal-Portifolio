@@ -1,5 +1,5 @@
 <header class="sticky top-0 z-40 flex-none mx-auto w-full bg-white border-b dark:border-gray-600 dark:bg-deep-green-800">
-    <div class="mx-auto w-full max-w-8xl 2xl:container 2xl:mx-auto lg:px-20 md:px-6 py-3 px-4 dark:bg-deep-green-800 shadow-md">
+    <div class="mx-auto w-full max-w-8xl 2xl:container 2xl:mx-auto lg:px-20 md:px-6 py-3 px-4 dark:bg-deep-green-800">
         <div class="conatiner flex justify-between items-center ">
             <div class="flex items-center">
                 <button id="toggleSidebarMobile" aria-expanded="true" aria-controls="sidebar"
