@@ -1,7 +1,10 @@
-<div class="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4">
+<div class="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 relative ">
     <div class="flex flex-col items-center justify-center">
         <h1 class="lg:text-4xl text-3xl font-bold text-center text-gray-800 dark:text-white ">Hear what they Say</h1>
         <p class="text-base leading-6 mt-4 text-center text-gray-600 dark:text-white  2xl:w-2/5 ">Here is why you should trust me with your work achievements</p>
+    </div>
+    <div class="hang-astro absolute right-10 -top-32">
+        <img src="/img/astro-4.png" alt="" class=" w-96">
     </div>
     <div class="w-full lg:flex items-center gap-6 mt-10">
         <div class="lg:w-1/2">
