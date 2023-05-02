@@ -25,7 +25,7 @@
         <img src="/img/profile.png" width="640" height="640" alt="" />
         <figcaption>
             <blockquote>
-                We shape our tools and then the tools shape us.
+                I shaped My tools and then the tools is shapping Me.
             </blockquote>
             <cite>when you believe in something so strongly and keep on pushing it so persistently,
                 somehow you can make the impossible possible. and Ideas in different topics or fields
