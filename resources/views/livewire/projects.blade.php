@@ -1,11 +1,11 @@
-<div
-    class="overflow-hidden 2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto">
-    <p class="text-4xl font-bold max-w-5xl lg:text-7xl lg:pr-24 md:text-6xl dark:text-white"
-    style="font-family: 'Anek Telugu', sans-serif !important; font-weight: 700;">
+<div class="overflow-hidden 2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto" style="margin-top: 5rem">
+    <p class="text-4xl font-bold max-w-5xl lg:text-7xl lg:pr-24 md:text-6xl dark:text-white">
         Spend less time coding and more time creating
     </p>
-    <p class="max-w-2xl text-md dark:text-gray-400 md:text-2xl text-black"
-        style="font-family: 'Anek Telugu', sans-serif !important; font-weight: 700;">
+    <div class="hang-astro absolute right-0 top-0">
+        <img src="/img/astro-3.png" alt="" class=" w-96">
+    </div>
+    <p class="max-w-2xl text-md dark:text-gray-400 md:text-2xl text-black">
         In the world of rapid movements, we need to think twice and code once to deliver creative work.
     </p>
 

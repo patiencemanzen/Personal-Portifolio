@@ -46,7 +46,7 @@
         gap: 0rem;
         padding: 1rem;
         position: absolute;
-        top: -130px;
+        top: -115px;
         width: 90%;
         height: 100%
     }
