@@ -40,7 +40,7 @@
             <div class="flex items-center">
                 <ul id="flowbiteMenu" class="mr-3 hidden items-center justify-center flex-col pt-6 lg:flex-row lg:self-center lg:py-0 lg:flex">
                     <li class="lg:px-2 xl:px-3 lg:mb-0">
-                        <a target="_blank" href="https://twitter.com/ManirabonaW" data-tooltip-target="tooltip-blogs"
+                        <a target="_blank" href="https://blog.patienceman.com" data-tooltip-target="tooltip-blogs"
                             class="mt-2 text-md font-medium text-gray-900 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-500 flex items-center justify-center"
                             style="font-family: 'Anek Telugu', sans-serif; font-weight: 600">Blogs</a>
                         <div id="tooltip-blogs" role="tooltip"
