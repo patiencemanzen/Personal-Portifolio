@@ -6,13 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="author" content="Manirabona Patience" />
 
-    <meta name="description" content="Full-stack developer with 5+ years of experience in JavaScript, PHP, and SQL including some libraries and frameworks like In JavaScript(React js, Node js, Express Js), and Also MongoDB, PHP (laravel).  I’ve been collaborating and contributing with different Teams and companies to develop their products from ideas up to Marketplace." />
+    <meta name="description" content="Full-stack Engineer with Many years of experience in JavaScript, PHP, and SQL including some libraries and frameworks like In JavaScript(React js, vue js, node Js), and Also MongoDB, PHP (laravel and Symfony).  I’ve been collaborating and contributing with different Teams and companies to develop their products from ideas up to Marketplace including open source projects." />
     <meta name="rating" content="adult" />
+    <meta name="keywords" content="manirabona, patience, manirabona patience, patienceman, backend-developers, patience manirabona, laravel developer, vue.js developer, author, video editor" />
     <meta name="rating" content="RTA-5042-1996-1400-1577-RTA" />
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="icon" type="image/x-icon" href="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_5_marketing_svg1.svg">
 
-    <title>Patience Manirabona - @yield('title')</title>
+    <title>Manirabona Patience - @yield('title')</title>
 
     @livewireStyles
 

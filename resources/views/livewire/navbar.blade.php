@@ -20,7 +20,7 @@
                 <div class="flex justify-between items-center">
                     <a href="/" class="flex" data-tooltip-target="tooltip-logo-1">
                         <div class="cursor-pointer w-12">
-                            <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_5_marketing_svg1.svg" alt="logo">
+                            <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_5_marketing_svg1.svg" alt="Manirabona Patience logo">
                         </div>
                         <span class="self-center text-2xl mt-2 font-semibold whitespace-nowrap dark:text-white ml-4" style="font-family: 'Anek Telugu', sans-serif; font-weight: 700">
                             Patienceman
@@ -30,7 +30,7 @@
                         class="inline-block absolute invisible z-10 py-2 px-3 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 transition-opacity duration-300 tooltip"
                         data-popper-placement="top"
                         style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(1186px, -64px);">
-                        Patience Manirabona Logo
+                        Manirabona Patience Logo
                         <div class="tooltip-arrow" data-popper-arrow=""
                             style="position: absolute; left: 0px; transform: translate(99px, 0px);"></div>
                     </div>
@@ -40,6 +40,19 @@
             <div class="flex items-center">
                 <ul id="flowbiteMenu" class="mr-3 hidden items-center justify-center flex-col pt-6 lg:flex-row lg:self-center lg:py-0 lg:flex">
                     <li class="lg:px-2 xl:px-3 lg:mb-0">
+                        <a target="_blank" href="https://twitter.com/ManirabonaW" data-tooltip-target="tooltip-blogs"
+                            class="mt-2 text-md font-medium text-gray-900 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-500 flex items-center justify-center"
+                            style="font-family: 'Anek Telugu', sans-serif; font-weight: 600">Blogs</a>
+                        <div id="tooltip-blogs" role="tooltip"
+                            class="inline-block absolute invisible z-10 py-2 px-3 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 transition-opacity duration-300 tooltip"
+                            data-popper-placement="top"
+                            style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(1186px, -64px);">
+                            Visit My blogs and see what i've written lately
+                            <div class="tooltip-arrow" data-popper-arrow=""
+                                style="position: absolute; left: 0px; transform: translate(99px, 0px);"></div>
+                        </div>
+                    </li>
+                    <li class="lg:px-2 xl:px-3 lg:mb-0">
                         <a target="_blank" href="https://twitter.com/ManirabonaW" data-tooltip-target="tooltip-twitter"
                             class="mt-2 text-md font-medium text-gray-900 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-500 flex items-center justify-center"
                             style="font-family: 'Anek Telugu', sans-serif; font-weight: 600">Twitter</a>
@@ -47,7 +60,7 @@
                             class="inline-block absolute invisible z-10 py-2 px-3 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 transition-opacity duration-300 tooltip"
                             data-popper-placement="top"
                             style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(1186px, -64px);">
-                            Find Patience Manirabona On Twitter
+                            Find Manirabona Patience On Twitter
                             <div class="tooltip-arrow" data-popper-arrow=""
                                 style="position: absolute; left: 0px; transform: translate(99px, 0px);"></div>
                         </div>
@@ -59,7 +72,7 @@
                             class="inline-block absolute invisible z-10 py-2 px-3 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 transition-opacity duration-300 tooltip"
                             data-popper-placement="top"
                             style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(1186px, -64px);">
-                            Find Patience Manirabona On Facebook
+                            Find Manirabona Patience On Facebook
                             <div class="tooltip-arrow" data-popper-arrow=""
                                 style="position: absolute; left: 0px; transform: translate(99px, 0px);"></div>
                         </div>
@@ -73,7 +86,7 @@
                             class="inline-block absolute invisible z-10 py-2 px-3 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 transition-opacity duration-300 tooltip"
                             data-popper-placement="top"
                             style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(1186px, -64px);">
-                            Find Patience Manirabona On LinkedIn
+                            Find Manirabona Patience On LinkedIn
                             <div class="tooltip-arrow" data-popper-arrow=""
                                 style="position: absolute; left: 0px; transform: translate(99px, 0px);"></div>
                         </div>
@@ -86,7 +99,7 @@
                             class="inline-block absolute invisible z-10 py-2 px-3 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 transition-opacity duration-300 tooltip"
                             data-popper-placement="top"
                             style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(1186px, -64px);">
-                            Find Patience Manirabona On Instagram
+                            Find Manirabona Patience On Instagram
                             <div class="tooltip-arrow" data-popper-arrow=""
                                 style="position: absolute; left: 0px; transform: translate(99px, 0px);"></div>
                         </div>
@@ -100,7 +113,7 @@
                             class="inline-block absolute invisible z-10 py-2 px-3 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 transition-opacity duration-300 tooltip"
                             data-popper-placement="top"
                             style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(1186px, -64px);">
-                            Contact with Patience Manirabona via email
+                            Contact with Manirabona Patience via email
                             <div class="tooltip-arrow" data-popper-arrow=""
                                 style="position: absolute; left: 0px; transform: translate(99px, 0px);"></div>
                         </div>

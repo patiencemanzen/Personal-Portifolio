@@ -1,6 +1,6 @@
 <section>
     <div class="w-full relative pb-10 px-6 xl:px-0" style="height: 90vh">
-        <img class="absolute w-full inset-0 h-full object-cover object-center" src="/img/banner-bg.png" alt="Manirabona Patience" />
+        <img class="absolute w-full inset-0 h-full object-cover object-center" src="/img/banner-bg.png" alt="Manirabona Patience spaces" />
         <div class="3xl:container 3xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-32 lg:flex items-center relative z-10 container mx-auto">
             <div role="contentinfo" class="w-full lg:w-2/3">
                 <p tabindex="0" class="text-white uppercase text-2xl mb-4 font-bold">Hello!, it's Me</p>
@@ -21,7 +21,7 @@
                 </p>
             </div>
             <div class="hang-astro absolute right-0">
-                <img src="/img/header-img.svg" alt="" class="w-72">
+                <img src="/img/header-img.svg" alt="hanging astronut in space" class="w-72">
             </div>
         </div>
     </div>

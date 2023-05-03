@@ -4,9 +4,9 @@
             <div class="flex flex-col items-start justify-start xl:justify-center xl:space-x-8 xl:flex-row">
                 <div class="flex justify-start items-center space-x-4">
                     <div class="cursor-pointer w-12">
-                        <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_5_marketing_svg1.svg" alt="logo">
+                        <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_5_marketing_svg1.svg" alt="Manirabona Patience logo">
                     </div>
-                    <p class="w-60 text-xl xl:text-2xl font-semibold leading-normal text-black dark:text-white">PatienceMan</p>
+                    <p class="w-60 text-xl xl:text-2xl font-semibold leading-normal text-black dark:text-white">Patienceman</p>
                 </div>
                 <div class="mt-12 xl:mt-0 grid grid-cols-1 sm:grid-cols-3 gap-y-12 sm:gap-y-0 w-full md:w-auto sm:gap-x-20 md:gap-x-28 xl:gap-8">
                     <div class="sm:w-40 md:w-auto xl:w-72 flex justify-start items-start flex-col space-y-6">

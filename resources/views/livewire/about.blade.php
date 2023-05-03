@@ -22,7 +22,7 @@
 </div>
 <div class="professional">
     <figure class="card">
-        <img src="/img/profile.png" width="640" height="640" alt="" />
+        <img src="/img/profile.png" width="640" height="640" alt="Manirabona Patience at Google Developer Kigali DevFest" />
         <figcaption>
             <blockquote>
                 I shaped My tools and then the tools is shapping Me.
