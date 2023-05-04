@@ -9,14 +9,14 @@
         </h2>
         <p class="font-normal text-gray-600 dark:text-white mt-6 text-2xl leading-8">
             I built the ability to search and parse information quickly.
-            am an expert in developing elegant solutions to complex requirements
-            using JavaScript, php, laravel, React, Node.js, and MySQL. am organized,
-            quick-thinking problem solver who embraces software development projects with high efficiency
-            and professionalism, which makes me specialize in building complex web applications and leads
-            me to different communities, companies, and societies to work with strong teams and leaders,
+            am an expert in developing <span class="dark:text-highlight-primary-900 text-highlight-third-900"> solutions to complex requirements </span>
+            using <span class="dark:text-highlight-primary-900 text-highlight-third-900">JavaScript, php, laravel, React, Node.js, and MySQL.</span> am organized,
+            quick-thinking problem solver who embraces <span class="dark:text-highlight-primary-900 text-highlight-third-900">software development projects</span> with high efficiency
+            and professionalism, which makes me specialize in <span class="dark:text-highlight-primary-900 text-highlight-third-900">building complex web applications</span> and leads
+            me to different communities, companies, and societies to work with <span class="dark:text-highlight-primary-900 text-highlight-third-900">strong teams and leaders</span>,
             since 2018, this career has grown rapidly and for me to keep up with it! I developed a great
-            habit of always pursuing new skills and knowledge over and over,
-            When am not coding! i usually spent my time in books and photography!.
+            <span class="dark:text-highlight-primary-900 text-highlight-third-900">habit of</span> always pursuing <span class="dark:text-highlight-primary-900 text-highlight-third-900">new skills and knowledge over and over</span>,
+            When am not coding! i usually spent my time in <span class="dark:text-highlight-primary-900 text-highlight-third-900">books and photography!</span>.
         </p>
     </div>
 </div>
@@ -25,11 +25,11 @@
         <img src="/img/profile.png" width="640" height="640" alt="Manirabona Patience at Google Developer Kigali DevFest" />
         <figcaption>
             <blockquote>
-                I shaped My tools and then the tools is shapping Me.
+                I shaped My tools and then the tools is <span class="text-highlight-secondary-900">shapping Me</span>.
             </blockquote>
-            <cite>when you believe in something so strongly and keep on pushing it so persistently,
-                somehow you can make the impossible possible. and Ideas in different topics or fields
-                can often inspire new ideas and broaden the potential solution space.</cite>
+            <cite>when you believe in something so <span class="text-highlight-secondary-900">strongly</span> and keep on pushing it so persistently,
+                somehow you can make <span class="text-highlight-secondary-900">the impossible possible</span>. and Ideas in <span class="text-highlight-secondary-900">different topics or fields</span>
+                can often inspire new ideas and broaden <span class="text-highlight-secondary-900">the potential solution space.</span></cite>
             <p class="credit"> <strong>Google Developer Kigali DevFest</strong></p>
         </figcaption>
     </figure>
