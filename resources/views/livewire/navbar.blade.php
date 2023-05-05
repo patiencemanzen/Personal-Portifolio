@@ -26,8 +26,7 @@
                     tabindex="-1" aria-labelledby="drawer-navigation-label">
                     <a href="/" class="flex mt-5" data-tooltip-target="tooltip-logo-1">
                         <div class="cursor-pointer w-20">
-                            <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_5_marketing_svg1.svg"
-                                alt="Manirabpna Patience Logo">
+                            <img src="/img/logos/logo-no-background.svg" alt="Manirabpna Patience Logo">
                         </div>
                     </a>
                     <div class="py-4 overflow-y-auto">
@@ -173,8 +172,7 @@
                 <div class="flex justify-between items-center">
                     <a href="/" class="flex" data-tooltip-target="tooltip-logo-1">
                         <div class="cursor-pointer w-12">
-                            <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_5_marketing_svg1.svg"
-                                alt="Manirabona Patience logo">
+                            <img src="/img/logos/logo-no-background.svg" alt="Manirabona Patience logo">
                         </div>
                         <span class="self-center text-2xl mt-2 font-semibold whitespace-nowrap dark:text-white ml-4"
                             style="font-family: 'Anek Telugu', sans-serif; font-weight: 700">
