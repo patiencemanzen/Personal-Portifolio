@@ -42,8 +42,11 @@
                 </div>
                 <p class="text-base leading-6 text-gray-600 dark:text-white  mt-4"
                     style="font-weight: 500;font-size:20px">
-                    When our designs need an expert opinion or approval, I know I can rely on your
-                    agency Thank you for all your help-I will be recommending you to everyone
+                    I have looked enthusiasm you use, and I see excellence In you,
+                    anyone may enjoy working with you and even your work will be successful,
+                    because I see some growth in you, especially when you fight for what
+                    you doing to become perfect, understandable, and strong. I can testify
+                    that this is true because we had worked together on a different project.
                 </p>
                 <div class="absolute bottom-0 -mb-4 ml-10">
                     <img class="dark:hidden" src="https://tuk-cdn.s3.amazonaws.com/can-uploader/testimonials-4-svg2.svg"
@@ -53,12 +56,11 @@
             <div class="flex items-center mt-7">
                 <div class="w-12 h-12 border rounded-full flex items-center justify-center"
                     style="border: 1px solid #bfd291">
-                    <img src="https://i.ibb.co/C6bwf12/Mask-Group.png" class="w-10 h-10 rounded-full" alt="profile" />
+                    <img src="/img/testimonies/landry.jpeg" class="w-10 h-10 rounded-full" alt="profile" />
                 </div>
                 <div class="flex flex-col items-start ml-4">
-                    <p class="text-base font-semibold leading-4 text-gray-800 dark:text-white ">Hirwa Nshut Landry</p>
-                    <p class="text-base leading-4 mt-2 text-center text-gray-600 dark:text-white ">Full-stack developer
-                    </p>
+                    <p class="text-base font-semibold leading-4 text-gray-800 dark:text-white ">Hirwa Nshuti Landry</p>
+                    <p class="text-base leading-4 mt-2 text-center text-gray-600 dark:text-white ">Javascript Developer</p>
                 </div>
             </div>
         </div>
