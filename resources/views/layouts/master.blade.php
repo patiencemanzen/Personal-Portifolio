@@ -6,14 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="author" content="Manirabona Patience" />
 
-    <meta name="description" content="Full-stack Engineer with Many years of experience in JavaScript, PHP, and SQL including some libraries and frameworks like In JavaScript(React js, vue js, node Js), and Also MongoDB, PHP (laravel and Symfony).  I’ve been collaborating and contributing with different Teams and companies to develop their products from ideas up to Marketplace including open source projects." />
     <meta name="rating" content="adult" />
-    <meta name="keywords" content="manirabona, patience, manirabona patience, patienceman, backend-developers, patience manirabona, laravel developer, vue.js developer, author, video editor" />
+    <meta name="description" content="Hi, i'm Manirabona Patience, am full-stack Engineer with Many years of experience in JavaScript, PHP, and SQL including some libraries and frameworks like In JavaScript(React js, vue js, node Js), and Also MongoDB, PHP (laravel and Symfony).  I’ve been collaborating and contributing with different Teams and companies to develop their products from ideas up to Marketplace including open source projects." />
+    <meta name="keywords" content="manirabona, patience, manirabona patience, patienceman, backend-developers, patience manirabona, laravel developer, vue.js developer, author, video editor, JavaScript developer, PHP developer, SQL developer" />
     <meta name="rating" content="RTA-5042-1996-1400-1577-RTA" />
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="icon" type="image/x-icon" href="/img/logos/logo-no-background.svg">
 
-    <title>Manirabona Patience - @yield('title')</title>
+    <title> @yield('title') | portifolio | patienceman </title>
 
     @livewireStyles
 
