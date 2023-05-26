@@ -11,7 +11,7 @@
     <meta name="keywords" content="manirabona, patience, manirabona patience, patienceman, backend-developers, patience manirabona, laravel developer, vue.js developer, author, video editor, JavaScript developer, PHP developer, SQL developer" />
     <meta name="rating" content="RTA-5042-1996-1400-1577-RTA" />
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <link rel="icon" type="image/x-icon" href="/img/logos/logo-no-background.svg">
+    <link rel="icon" type="image/x-icon" href="/img/logos/logo-black.png">
 
     <title> @yield('title') | portifolio | patienceman </title>
 
