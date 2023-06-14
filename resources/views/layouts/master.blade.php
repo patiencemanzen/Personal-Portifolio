@@ -31,7 +31,7 @@
         }
     </script>
 </head>
-<body class="dark:bg-gray-800">
+<body class="dark:bg-[#10172a]">
     @yield('content')
 
     @livewireScripts

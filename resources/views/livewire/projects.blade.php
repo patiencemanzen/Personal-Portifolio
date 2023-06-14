@@ -1,305 +1,197 @@
 <div class="overflow-hidden 2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto"
     style="margin-top: 5rem">
     <p class="text-4xl font-bold max-w-5xl lg:text-7xl lg:pr-24 md:text-6xl dark:text-white">
-        Spend less time <span class="text-highlight-third-900">coding</span> and more time <span class="text-highlight-third-900">creating</span>
+        Things I’ve made <br /> <span class="text-highlight-third-900">Trying</span> to put my dent <br /> in <span
+        class="text-highlight-third-900">the universe.</span>
     </p>
     <div class="hang-astro absolute right-0 top-0">
         <img src="/img/astro-3.png" alt="" class=" w-96">
     </div>
     <p class="max-w-2xl text-md dark:text-gray-400 md:text-2xl text-black">
-        In the world of rapid movements, we need to think twice and code once to deliver creative work.
+        I’ve always been passionate about codes and design projects and haven’t stopped working and learning
+        about new technologies .
+        Other than sitting in from of my display I enjoy myself in casual sports, such as bowling or playing
+        basketball with friends.
     </p>
 
-    <div class="h-10 md:h-30"></div>
+    <div class="h-5 md:h-30"></div>
 
     <div class="mt-5">
         <div class="flex flex-col justify-center">
-            <p
-                class="self-start inline text-xl text-transparent font-bold bg-clip-text bg-gradient-to-br text-deep-green-900 dark:text-white">
-                Check out my services
-            </p>
-            <h2 class="text-4xl font-bold dark:text-white mt-3">Creativity and Motivated work</h2>
-            <div class="h-6"></div>
-            <p class="text-xl dark:text-gray-400 md:pr-10"
-                style="font-family: 'Anek Telugu', sans-serif !important; font-weight: 500;font-size: 20px">
-                I’ve always been passionate about codes and design projects and haven’t stopped working and learning
-                about new technologies .
-                Other than sitting in from of my display I enjoy myself in casual sports, such as bowling or playing
-                basketball with friends.
-            </p>
-            <div class="h-8"></div>
-            <div class="grid grid-cols-2 gap-4 pt-8 border-t border-gray-800 dark:border-gray-200">
-                <div>
-                    <p class="font-bold text-xl dark:text-white text-black">Back-end Development</p>
-                    <div class="h-4"></div>
-                    <p class="dark:text-gray-400 text-xl text-black"
-                        style="font-family: 'Anek Telugu', sans-serif !important; font-weight: 500;font-size: 20px">
-                        I Build and maintain the mechanisms that process data, perform actions
-                        ,and also forms the backbone of a website or app.
-                    </p>
-                </div>
-                <div>
-                    <p class="font-bold dark:text-white text-xl text-black">Frontend Development</p>
-                    <div class="h-4"></div>
-                    <p class="dark:text-gray-400 text-xl text-black"
-                        style="font-family: 'Anek Telugu', sans-serif !important; font-weight: 500;font-size: 20px">
-                        Practice of producing HTML, CSS and JavaScript
-                        Web Application so that a user can interact with them directly.
-                    </p>
-                </div>
+            <div class="mt-5 sm:mt-10">
+                <ul role="list" class="grid grid-cols-1 gap-x-12 gap-y-16 sm:grid-cols-2 lg:grid-cols-3">
+                    <li class="group relative flex flex-col items-start">
+                        <div class="z-10">
+                            <div id="tooltip-jese" role="tooltip" class="absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white transition-opacity duration-300 bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">
+                                Jese Leos
+                                <div class="tooltip-arrow" data-popper-arrow></div>
+                            </div>
+                            <img data-tooltip-target="tooltip-jese" class="w-10 h-10 rounded shadow-sm ring-2 ring-gray-700" src="https://images.unsplash.com/photo-1682686580849-3e7f67df4015?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80" alt="Medium avatar">
+                        </div>
+                        <h2 class="mt-6 text-2xl font-semibold text-zinc-800 dark:text-zinc-100">
+                            <div class="absolute inset-x-4 inset-y-6 z-0 scale-95 bg-[#E4E4E7] opacity-1 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl">
+                            </div>
+                            <a href="http://planetaria.tech">
+                                <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
+                                <span class="relative z-10 ">Planetaria</span>
+                            </a>
+                        </h2>
+                        <p class="relative z-10 mt-2 text-md dark:text-gray-800 md:text-md text-black leading-6">
+                            Creating technology to empower civilians to explore
+                            space on their own terms.
+                        </p>
+                        <p class="relative z-10 mt-7 flex text-md font-medium text-zinc-400 transition group-hover:text-teal-500 dark:text-zinc-200 dark:text-[#0EA5E9]">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 flex-none">
+                                <path d="M15.712 11.823a.75.75 0 1 0 1.06 1.06l-1.06-1.06Zm-4.95 1.768a.75.75 0 0 0 1.06-1.06l-1.06 1.06Zm-2.475-1.414a.75.75 0 1 0-1.06-1.06l1.06 1.06Zm4.95-1.768a.75.75 0 1 0-1.06 1.06l1.06-1.06Zm3.359.53-.884.884 1.06 1.06.885-.883-1.061-1.06Zm-4.95-2.12 1.414-1.415L12 6.344l-1.415 1.413 1.061 1.061Zm0 3.535a2.5 2.5 0 0 1 0-3.536l-1.06-1.06a4 4 0 0 0 0 5.656l1.06-1.06Zm4.95-4.95a2.5 2.5 0 0 1 0 3.535L17.656 12a4 4 0 0 0 0-5.657l-1.06 1.06Zm1.06-1.06a4 4 0 0 0-5.656 0l1.06 1.06a2.5 2.5 0 0 1 3.536 0l1.06-1.06Zm-7.07 7.07.176.177 1.06-1.06-.176-.177-1.06 1.06Zm-3.183-.353.884-.884-1.06-1.06-.884.883 1.06 1.06Zm4.95 2.121-1.414 1.414 1.06 1.06 1.415-1.413-1.06-1.061Zm0-3.536a2.5 2.5 0 0 1 0 3.536l1.06 1.06a4 4 0 0 0 0-5.656l-1.06 1.06Zm-4.95 4.95a2.5 2.5 0 0 1 0-3.535L6.344 12a4 4 0 0 0 0 5.656l1.06-1.06Zm-1.06 1.06a4 4 0 0 0 5.657 0l-1.061-1.06a2.5 2.5 0 0 1-3.535 0l-1.061 1.06Zm7.07-7.07-.176-.177-1.06 1.06.176.178 1.06-1.061Z"
+                                    fill="currentColor">
+                                </path>
+                            </svg>
+                            <span class="ml-2">planetaria.tech</span>
+                        </p>
+                    </li>
+                    <li class="group relative flex flex-col items-start">
+                        <div class="z-10">
+                            <div id="tooltip-jese" role="tooltip" class="absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white transition-opacity duration-300 bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">
+                                Jese Leos
+                                <div class="tooltip-arrow" data-popper-arrow></div>
+                            </div>
+                            <img data-tooltip-target="tooltip-jese" class="w-10 h-10 rounded shadow-sm ring-2 ring-gray-700" src="https://images.unsplash.com/photo-1682686580849-3e7f67df4015?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80" alt="Medium avatar">
+                        </div>
+                        <h2 class="mt-6 text-2xl font-semibold text-zinc-800 dark:text-zinc-100">
+                            <div class="absolute inset-x-4 inset-y-6 z-0 scale-95 bg-[#E4E4E7] opacity-1 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl">
+                            </div>
+                            <a href="http://planetaria.tech">
+                                <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
+                                <span class="relative z-10 ">Planetaria</span>
+                            </a>
+                        </h2>
+                        <p class="relative z-10 mt-2 text-md dark:text-gray-800 md:text-md text-black leading-6">
+                            Creating technology to empower civilians to explore
+                            space on their own terms.
+                        </p>
+                        <p class="relative z-10 mt-7 flex text-md font-medium text-zinc-400 transition group-hover:text-teal-500 dark:text-zinc-200 dark:text-[#0EA5E9]">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 flex-none">
+                                <path d="M15.712 11.823a.75.75 0 1 0 1.06 1.06l-1.06-1.06Zm-4.95 1.768a.75.75 0 0 0 1.06-1.06l-1.06 1.06Zm-2.475-1.414a.75.75 0 1 0-1.06-1.06l1.06 1.06Zm4.95-1.768a.75.75 0 1 0-1.06 1.06l1.06-1.06Zm3.359.53-.884.884 1.06 1.06.885-.883-1.061-1.06Zm-4.95-2.12 1.414-1.415L12 6.344l-1.415 1.413 1.061 1.061Zm0 3.535a2.5 2.5 0 0 1 0-3.536l-1.06-1.06a4 4 0 0 0 0 5.656l1.06-1.06Zm4.95-4.95a2.5 2.5 0 0 1 0 3.535L17.656 12a4 4 0 0 0 0-5.657l-1.06 1.06Zm1.06-1.06a4 4 0 0 0-5.656 0l1.06 1.06a2.5 2.5 0 0 1 3.536 0l1.06-1.06Zm-7.07 7.07.176.177 1.06-1.06-.176-.177-1.06 1.06Zm-3.183-.353.884-.884-1.06-1.06-.884.883 1.06 1.06Zm4.95 2.121-1.414 1.414 1.06 1.06 1.415-1.413-1.06-1.061Zm0-3.536a2.5 2.5 0 0 1 0 3.536l1.06 1.06a4 4 0 0 0 0-5.656l-1.06 1.06Zm-4.95 4.95a2.5 2.5 0 0 1 0-3.535L6.344 12a4 4 0 0 0 0 5.656l1.06-1.06Zm-1.06 1.06a4 4 0 0 0 5.657 0l-1.061-1.06a2.5 2.5 0 0 1-3.535 0l-1.061 1.06Zm7.07-7.07-.176-.177-1.06 1.06.176.178 1.06-1.061Z"
+                                    fill="currentColor">
+                                </path>
+                            </svg>
+                            <span class="ml-2">planetaria.tech</span>
+                        </p>
+                    </li><li class="group relative flex flex-col items-start">
+                        <div class="z-10">
+                            <div id="tooltip-jese" role="tooltip" class="absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white transition-opacity duration-300 bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">
+                                Jese Leos
+                                <div class="tooltip-arrow" data-popper-arrow></div>
+                            </div>
+                            <img data-tooltip-target="tooltip-jese" class="w-10 h-10 rounded shadow-sm ring-2 ring-gray-700" src="https://images.unsplash.com/photo-1682686580849-3e7f67df4015?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80" alt="Medium avatar">
+                        </div>
+                        <h2 class="mt-6 text-2xl font-semibold text-zinc-800 dark:text-zinc-100">
+                            <div class="absolute inset-x-4 inset-y-6 z-0 scale-95 bg-[#E4E4E7] opacity-1 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl">
+                            </div>
+                            <a href="http://planetaria.tech">
+                                <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
+                                <span class="relative z-10 ">Planetaria</span>
+                            </a>
+                        </h2>
+                        <p class="relative z-10 mt-2 text-md dark:text-gray-800 md:text-md text-black leading-6">
+                            Creating technology to empower civilians to explore
+                            space on their own terms.
+                        </p>
+                        <p class="relative z-10 mt-7 flex text-md font-medium text-zinc-400 transition group-hover:text-teal-500 dark:text-zinc-200 dark:text-[#0EA5E9]">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 flex-none">
+                                <path d="M15.712 11.823a.75.75 0 1 0 1.06 1.06l-1.06-1.06Zm-4.95 1.768a.75.75 0 0 0 1.06-1.06l-1.06 1.06Zm-2.475-1.414a.75.75 0 1 0-1.06-1.06l1.06 1.06Zm4.95-1.768a.75.75 0 1 0-1.06 1.06l1.06-1.06Zm3.359.53-.884.884 1.06 1.06.885-.883-1.061-1.06Zm-4.95-2.12 1.414-1.415L12 6.344l-1.415 1.413 1.061 1.061Zm0 3.535a2.5 2.5 0 0 1 0-3.536l-1.06-1.06a4 4 0 0 0 0 5.656l1.06-1.06Zm4.95-4.95a2.5 2.5 0 0 1 0 3.535L17.656 12a4 4 0 0 0 0-5.657l-1.06 1.06Zm1.06-1.06a4 4 0 0 0-5.656 0l1.06 1.06a2.5 2.5 0 0 1 3.536 0l1.06-1.06Zm-7.07 7.07.176.177 1.06-1.06-.176-.177-1.06 1.06Zm-3.183-.353.884-.884-1.06-1.06-.884.883 1.06 1.06Zm4.95 2.121-1.414 1.414 1.06 1.06 1.415-1.413-1.06-1.061Zm0-3.536a2.5 2.5 0 0 1 0 3.536l1.06 1.06a4 4 0 0 0 0-5.656l-1.06 1.06Zm-4.95 4.95a2.5 2.5 0 0 1 0-3.535L6.344 12a4 4 0 0 0 0 5.656l1.06-1.06Zm-1.06 1.06a4 4 0 0 0 5.657 0l-1.061-1.06a2.5 2.5 0 0 1-3.535 0l-1.061 1.06Zm7.07-7.07-.176-.177-1.06 1.06.176.178 1.06-1.061Z"
+                                    fill="currentColor">
+                                </path>
+                            </svg>
+                            <span class="ml-2">planetaria.tech</span>
+                        </p>
+                    </li><li class="group relative flex flex-col items-start">
+                        <div class="z-10">
+                            <div id="tooltip-jese" role="tooltip" class="absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white transition-opacity duration-300 bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">
+                                Jese Leos
+                                <div class="tooltip-arrow" data-popper-arrow></div>
+                            </div>
+                            <img data-tooltip-target="tooltip-jese" class="w-10 h-10 rounded shadow-sm ring-2 ring-gray-700" src="https://images.unsplash.com/photo-1682686580849-3e7f67df4015?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80" alt="Medium avatar">
+                        </div>
+                        <h2 class="mt-6 text-2xl font-semibold text-zinc-800 dark:text-zinc-100">
+                            <div class="absolute inset-x-4 inset-y-6 z-0 scale-95 bg-[#E4E4E7] opacity-1 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl">
+                            </div>
+                            <a href="http://planetaria.tech">
+                                <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
+                                <span class="relative z-10 ">Planetaria</span>
+                            </a>
+                        </h2>
+                        <p class="relative z-10 mt-2 text-md dark:text-gray-800 md:text-md text-black leading-6">
+                            Creating technology to empower civilians to explore
+                            space on their own terms.
+                        </p>
+                        <p class="relative z-10 mt-7 flex text-md font-medium text-zinc-400 transition group-hover:text-teal-500 dark:text-zinc-200 dark:text-[#0EA5E9]">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 flex-none">
+                                <path d="M15.712 11.823a.75.75 0 1 0 1.06 1.06l-1.06-1.06Zm-4.95 1.768a.75.75 0 0 0 1.06-1.06l-1.06 1.06Zm-2.475-1.414a.75.75 0 1 0-1.06-1.06l1.06 1.06Zm4.95-1.768a.75.75 0 1 0-1.06 1.06l1.06-1.06Zm3.359.53-.884.884 1.06 1.06.885-.883-1.061-1.06Zm-4.95-2.12 1.414-1.415L12 6.344l-1.415 1.413 1.061 1.061Zm0 3.535a2.5 2.5 0 0 1 0-3.536l-1.06-1.06a4 4 0 0 0 0 5.656l1.06-1.06Zm4.95-4.95a2.5 2.5 0 0 1 0 3.535L17.656 12a4 4 0 0 0 0-5.657l-1.06 1.06Zm1.06-1.06a4 4 0 0 0-5.656 0l1.06 1.06a2.5 2.5 0 0 1 3.536 0l1.06-1.06Zm-7.07 7.07.176.177 1.06-1.06-.176-.177-1.06 1.06Zm-3.183-.353.884-.884-1.06-1.06-.884.883 1.06 1.06Zm4.95 2.121-1.414 1.414 1.06 1.06 1.415-1.413-1.06-1.061Zm0-3.536a2.5 2.5 0 0 1 0 3.536l1.06 1.06a4 4 0 0 0 0-5.656l-1.06 1.06Zm-4.95 4.95a2.5 2.5 0 0 1 0-3.535L6.344 12a4 4 0 0 0 0 5.656l1.06-1.06Zm-1.06 1.06a4 4 0 0 0 5.657 0l-1.061-1.06a2.5 2.5 0 0 1-3.535 0l-1.061 1.06Zm7.07-7.07-.176-.177-1.06 1.06.176.178 1.06-1.061Z"
+                                    fill="currentColor">
+                                </path>
+                            </svg>
+                            <span class="ml-2">planetaria.tech</span>
+                        </p>
+                    </li><li class="group relative flex flex-col items-start">
+                        <div class="z-10">
+                            <div id="tooltip-jese" role="tooltip" class="absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white transition-opacity duration-300 bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">
+                                Jese Leos
+                                <div class="tooltip-arrow" data-popper-arrow></div>
+                            </div>
+                            <img data-tooltip-target="tooltip-jese" class="w-10 h-10 rounded shadow-sm ring-2 ring-gray-700" src="https://images.unsplash.com/photo-1682686580849-3e7f67df4015?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80" alt="Medium avatar">
+                        </div>
+                        <h2 class="mt-6 text-2xl font-semibold text-zinc-800 dark:text-zinc-100">
+                            <div class="absolute inset-x-4 inset-y-6 z-0 scale-95 bg-[#E4E4E7] opacity-1 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl">
+                            </div>
+                            <a href="http://planetaria.tech">
+                                <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
+                                <span class="relative z-10 ">Planetaria</span>
+                            </a>
+                        </h2>
+                        <p class="relative z-10 mt-2 text-md dark:text-gray-800 md:text-md text-black leading-6">
+                            Creating technology to empower civilians to explore
+                            space on their own terms.
+                        </p>
+                        <p class="relative z-10 mt-7 flex text-md font-medium text-zinc-400 transition group-hover:text-teal-500 dark:text-zinc-200 dark:text-[#0EA5E9]">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 flex-none">
+                                <path d="M15.712 11.823a.75.75 0 1 0 1.06 1.06l-1.06-1.06Zm-4.95 1.768a.75.75 0 0 0 1.06-1.06l-1.06 1.06Zm-2.475-1.414a.75.75 0 1 0-1.06-1.06l1.06 1.06Zm4.95-1.768a.75.75 0 1 0-1.06 1.06l1.06-1.06Zm3.359.53-.884.884 1.06 1.06.885-.883-1.061-1.06Zm-4.95-2.12 1.414-1.415L12 6.344l-1.415 1.413 1.061 1.061Zm0 3.535a2.5 2.5 0 0 1 0-3.536l-1.06-1.06a4 4 0 0 0 0 5.656l1.06-1.06Zm4.95-4.95a2.5 2.5 0 0 1 0 3.535L17.656 12a4 4 0 0 0 0-5.657l-1.06 1.06Zm1.06-1.06a4 4 0 0 0-5.656 0l1.06 1.06a2.5 2.5 0 0 1 3.536 0l1.06-1.06Zm-7.07 7.07.176.177 1.06-1.06-.176-.177-1.06 1.06Zm-3.183-.353.884-.884-1.06-1.06-.884.883 1.06 1.06Zm4.95 2.121-1.414 1.414 1.06 1.06 1.415-1.413-1.06-1.061Zm0-3.536a2.5 2.5 0 0 1 0 3.536l1.06 1.06a4 4 0 0 0 0-5.656l-1.06 1.06Zm-4.95 4.95a2.5 2.5 0 0 1 0-3.535L6.344 12a4 4 0 0 0 0 5.656l1.06-1.06Zm-1.06 1.06a4 4 0 0 0 5.657 0l-1.061-1.06a2.5 2.5 0 0 1-3.535 0l-1.061 1.06Zm7.07-7.07-.176-.177-1.06 1.06.176.178 1.06-1.061Z"
+                                    fill="currentColor">
+                                </path>
+                            </svg>
+                            <span class="ml-2">planetaria.tech</span>
+                        </p>
+                    </li><li class="group relative flex flex-col items-start">
+                        <div class="z-10">
+                            <div id="tooltip-jese" role="tooltip" class="absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white transition-opacity duration-300 bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">
+                                Jese Leos
+                                <div class="tooltip-arrow" data-popper-arrow></div>
+                            </div>
+                            <img data-tooltip-target="tooltip-jese" class="w-10 h-10 rounded shadow-sm ring-2 ring-gray-700" src="https://images.unsplash.com/photo-1682686580849-3e7f67df4015?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80" alt="Medium avatar">
+                        </div>
+                        <h2 class="mt-6 text-2xl font-semibold text-zinc-800 dark:text-zinc-100">
+                            <div class="absolute inset-x-4 inset-y-6 z-0 scale-95 bg-[#E4E4E7] opacity-1 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl">
+                            </div>
+                            <a href="http://planetaria.tech">
+                                <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
+                                <span class="relative z-10 ">Planetaria</span>
+                            </a>
+                        </h2>
+                        <p class="relative z-10 mt-2 text-md dark:text-gray-800 md:text-md text-black leading-6">
+                            Creating technology to empower civilians to explore
+                            space on their own terms.
+                        </p>
+                        <p class="relative z-10 mt-7 flex text-md font-medium text-zinc-400 transition group-hover:text-teal-500 dark:text-zinc-200 dark:text-[#0EA5E9]">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 flex-none">
+                                <path d="M15.712 11.823a.75.75 0 1 0 1.06 1.06l-1.06-1.06Zm-4.95 1.768a.75.75 0 0 0 1.06-1.06l-1.06 1.06Zm-2.475-1.414a.75.75 0 1 0-1.06-1.06l1.06 1.06Zm4.95-1.768a.75.75 0 1 0-1.06 1.06l1.06-1.06Zm3.359.53-.884.884 1.06 1.06.885-.883-1.061-1.06Zm-4.95-2.12 1.414-1.415L12 6.344l-1.415 1.413 1.061 1.061Zm0 3.535a2.5 2.5 0 0 1 0-3.536l-1.06-1.06a4 4 0 0 0 0 5.656l1.06-1.06Zm4.95-4.95a2.5 2.5 0 0 1 0 3.535L17.656 12a4 4 0 0 0 0-5.657l-1.06 1.06Zm1.06-1.06a4 4 0 0 0-5.656 0l1.06 1.06a2.5 2.5 0 0 1 3.536 0l1.06-1.06Zm-7.07 7.07.176.177 1.06-1.06-.176-.177-1.06 1.06Zm-3.183-.353.884-.884-1.06-1.06-.884.883 1.06 1.06Zm4.95 2.121-1.414 1.414 1.06 1.06 1.415-1.413-1.06-1.061Zm0-3.536a2.5 2.5 0 0 1 0 3.536l1.06 1.06a4 4 0 0 0 0-5.656l-1.06 1.06Zm-4.95 4.95a2.5 2.5 0 0 1 0-3.535L6.344 12a4 4 0 0 0 0 5.656l1.06-1.06Zm-1.06 1.06a4 4 0 0 0 5.657 0l-1.061-1.06a2.5 2.5 0 0 1-3.535 0l-1.061 1.06Zm7.07-7.07-.176-.177-1.06 1.06.176.178 1.06-1.061Z"
+                                    fill="currentColor">
+                                </path>
+                            </svg>
+                            <span class="ml-2">planetaria.tech</span>
+                        </p>
+                    </li>
+                </ul>
             </div>
-        </div>
-    </div>
-
-    <div class="h-10 md:h-20"></div>
-
-    <p class="font-bold text-4xl">
-        <span class="text-highlight-secondary-900">Coincidences</span>
-        <span class="text-gray-600"> are the explanations
-            Of <span class="text-highlight-secondary-900">lazy and cowardly</span> people for
-            what they don't <span class="text-highlight-secondary-900">understand</span>
-        </span>
-    </p>
-    <div class="h-10 md:h-20"></div>
-    <div class="lg:w-10/12 w-full mb-5">
-        <p class="font-bold mb-2 text-md leading-3 text-black-700 dark:text-indigo-500 hover:text-indigo-800 cursor-pointer"
-            style="font-weight: 700;">
-            My recent Projects</p>
-        <h2 class="xl:w-8/12 lg:w-10/12 w-full font-bold text-gray-800 dark:text-white lg:text-4xl text-3xl lg:leading-10 leading-9 mt-2"
-            style="font-weight: 700;">
-            Complex and successfull projects i've delived.
-        </h2>
-        <p class="font-normal text-xl leading-8 text-gray-600 dark:text-white mt-6">
-            I'm grateful that my job experience allows me to work from anywhere.
-            I’m active on Twitter where I share most of the and all info about
-            my progressing and upcoming projects.
-        </p>
-    </div>
-
-    <div class="ag-format-container">
-        <div class="ag-courses_box">
-            <div class="ag-courses_item">
-                <a href="#" class="ag-courses-item_link">
-                    <div class="ag-courses-item_bg"></div>
-                    <div class="ag-courses-item_title">
-                        Full-stack Developer <br /> Vitaway E-clinic
-                    </div>
-                    <p class="ag-courses-item_desc">
-                        Digitalized services in #Prevention and #Management of #NCDs
-                        #Diabetes #Hypertension #obesity #Mentaldisorder.
-                        Handy Best Healthcare to Africa
-                    </p>
-                    <div class="ag-courses-item_date-box">
-                        <span class="ag-courses-item_date">
-                            01 January 2020 - 01 August 2021
-                        </span>
-                    </div>
-                </a>
-            </div>
-
-            <div class="ag-courses_item">
-                <a href="#" class="ag-courses-item_link">
-                    <div class="ag-courses-item_bg"></div>
-
-                    <div class="ag-courses-item_title">
-                        Backend Developer <br />
-                        Rwanda Build Program
-                    </div>
-                    <p class="ag-courses-item_desc">
-                        Free city discovery guide app for sites in Kigali.
-                        It was ﬁrst designed to tap around and discover new sites
-                        and perfect for anyone new to Kigali, Rwanda
-                    </p>
-                    <div class="ag-courses-item_date-box">
-                        <span class="ag-courses-item_date">
-                            01 May 2022 - 01 January 2023
-                        </span>
-                    </div>
-                </a>
-            </div>
-
-            <div class="ag-courses_item">
-                <a href="#" class="ag-courses-item_link">
-                    <div class="ag-courses-item_bg"></div>
-
-                    <div class="ag-courses-item_title">
-                        Full Stack Developer <br />
-                        Norld-verse
-                    </div>
-                    <p class="ag-courses-item_desc">
-                        Nnline bookstore envisioning at creating a generation of readers
-                        and life-long learners in different institutes across the world,
-                        As always, enjoy reading.
-                    </p>
-
-                    <div class="ag-courses-item_date-box">
-                        <span class="ag-courses-item_date">
-                            23 april 2019 - 03 June 2021
-                        </span>
-                    </div>
-                </a>
-            </div>
-
         </div>
     </div>
 </div>
-<style>
-    .ag-format-container {
-        width: 100%;
-    }
-
-    .ag-courses_box {
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex;
-        -webkit-box-align: start;
-        -ms-flex-align: start;
-        align-items: flex-start;
-        -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-        padding: 20px 0;
-    }
-
-    .ag-courses_item {
-        -ms-flex-preferred-size: calc(33.33333% - 30px);
-        flex-basis: calc(33.33333% - 30px);
-        margin: 0 15px 25px 0px;
-        overflow: hidden;
-        border-radius: 20px;
-    }
-
-    .ag-courses-item_link {
-        display: block;
-        padding: 30px 20px;
-        background: rgba(0, 0, 0, 0.8);
-        overflow: hidden;
-        position: relative;
-    }
-
-    .ag-courses-item_link:hover,
-    .ag-courses-item_link:hover .ag-courses-item_date {
-        text-decoration: none;
-        color: #FFF;
-    }
-
-    .ag-courses-item_link:hover .ag-courses-item_bg {
-        -webkit-transform: scale(10);
-        -ms-transform: scale(10);
-        transform: scale(10);
-    }
-
-    .ag-courses-item_title {
-        min-height: 30px;
-        margin: 0 0 25px;
-        overflow: hidden;
-        font-size: 30px;
-        color: #FFF;
-        z-index: 2;
-        position: relative;
-        font-weight: 600;
-    }
-
-    .ag-courses-item_desc {
-        color: white;
-        font-weight: 500;
-        font-size: 20px;
-        margin-bottom: 10px;
-        line-height: 24px;
-        z-index: 2;
-        position: relative;
-    }
-
-    .ag-courses-item_date-box {
-        font-size: 18px;
-        color: #FFF;
-
-        z-index: 2;
-        position: relative;
-    }
-
-    .ag-courses-item_date {
-        font-weight: bold;
-        color: #f9b234;
-
-        -webkit-transition: color .5s ease;
-        -o-transition: color .5s ease;
-        transition: color .5s ease
-    }
-
-    .ag-courses-item_bg {
-        height: 128px;
-        width: 128px;
-        background-color: #3ecd5e;
-
-        z-index: 1;
-        position: absolute;
-        top: -75px;
-        right: -75px;
-
-        border-radius: 50%;
-
-        -webkit-transition: all .5s ease;
-        -o-transition: all .5s ease;
-        transition: all .5s ease;
-    }
-
-    .ag-courses_item:nth-child(2n) .ag-courses-item_bg {
-        background-color: #e44002;
-    }
-
-    .ag-courses_item:nth-child(3n) .ag-courses-item_bg {
-        background-color: #4c49ea;
-    }
-
-    .ag-courses_item:nth-child(4n) .ag-courses-item_bg {
-        background-color: #952aff;
-    }
-
-    .ag-courses_item:nth-child(5n) .ag-courses-item_bg {
-        background-color: #cd3e94;
-    }
-
-    .ag-courses_item:nth-child(6n) .ag-courses-item_bg {
-        background-color: #4c49ea;
-    }
-
-    @media only screen and (max-width: 979px) {
-        .ag-courses_item {
-            -ms-flex-preferred-size: calc(50% - 30px);
-            flex-basis: calc(50% - 30px);
-        }
-
-        .ag-courses-item_title {
-            font-size: 24px;
-        }
-    }
-
-    @media only screen and (max-width: 767px) {
-        .ag-format-container {
-            width: 96%;
-        }
-
-    }
-
-    @media only screen and (max-width: 639px) {
-        .ag-courses_item {
-            -ms-flex-preferred-size: 100%;
-            flex-basis: 100%;
-        }
-
-        .ag-courses-item_title {
-            min-height: 72px;
-            line-height: 1;
-
-            font-size: 24px;
-        }
-
-        .ag-courses-item_link {
-            padding: 22px 40px;
-        }
-
-        .ag-courses-item_date-box {
-            font-size: 16px;
-        }
-    }
-</style>

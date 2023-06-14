@@ -9,7 +9,4 @@
     <livewire:about />
     <livewire:projects />
     <livewire:testimonial />
-    {{-- <livewire:blog /> --}}
-    {{-- <livewire:gallery /> --}}
-    <livewire:footer />
 @stop

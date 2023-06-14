@@ -1,10 +1,8 @@
-<div class="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto">
+<div class="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto my-10">
     <div class="lg:w-10/12 w-full">
-        <p
-            class="font-bold mb-2 text-md leading-3 text-black-700 dark:text-indigo-500 hover:text-indigo-800 cursor-pointer">
+        <p class="font-bold mb-2 text-md leading-3 text-black-700 dark:text-indigo-500 hover:text-indigo-800 cursor-pointer">
             About me!</p>
-        <h2
-            class="xl:w-8/12 lg:w-10/12 w-full font-bold text-gray-800 dark:text-white lg:text-4xl text-3xl lg:leading-10 leading-9 mt-2">
+        <h2 class="xl:w-8/12 lg:w-10/12 w-full font-bold text-gray-800 dark:text-white lg:text-5xl text-4xl  leading-10 mt-5">
             Backend-developer, Frontend Developer and Database managements.
         </h2>
         <p class="font-normal text-gray-600 dark:text-white mt-6 text-2xl leading-8">
@@ -91,7 +89,7 @@
         grid-row: 1/-2;
         z-index: -1;
         transform: rotate(3.195717992109142deg);
-        background: rgba(0, 0, 0, 0.30);
+        background: #0e73a1;
         border-radius: 20px
     }
 
