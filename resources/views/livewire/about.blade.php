@@ -1,4 +1,4 @@
-<div class="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto my-10">
+<div class="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 sm:py-3 sm:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto my-10">
     <div class="lg:w-10/12 w-full">
         <p class="font-bold mb-2 text-md leading-3 text-black-700 dark:text-indigo-500 hover:text-indigo-800 cursor-pointer">
             About me!</p>
@@ -147,6 +147,54 @@
             display: flex;
             width: 100%;
             height: 140vh;
+            justify-content: left;
+            align-items: left;
+            font-family: 'Anek Telugu', sans-serif;
+        }
+    }
+
+    @media only screen and (min-width: 768px) {
+        .professional {
+            margin: 0px 0px 0px 0px !important;
+            display: flex;
+            width: 100%;
+            height: 100vh;
+            justify-content: left;
+            align-items: left;
+            font-family: 'Anek Telugu', sans-serif;
+        }
+    }
+
+    @media only screen and (min-width: 640px) {
+        .professional {
+            margin: 0px 0px 0px 0px !important;
+            display: flex;
+            width: 100%;
+            height: 120vh;
+            justify-content: left;
+            align-items: left;
+            font-family: 'Anek Telugu', sans-serif;
+        }
+    }
+
+    @media only screen and (min-width: 500px) {
+        .professional {
+            margin: 0px 0px 0px 0px !important;
+            display: flex;
+            width: 100%;
+            height: 70vh;
+            justify-content: left;
+            align-items: left;
+            font-family: 'Anek Telugu', sans-serif;
+        }
+    }
+
+    @media only screen and (min-width: 300px) {
+        .professional {
+            margin: 0px 0px 0px 0px !important;
+            display: flex;
+            width: 100%;
+            height: 90vh;
             justify-content: left;
             align-items: left;
             font-family: 'Anek Telugu', sans-serif;

@@ -45,6 +45,9 @@ module.exports = {
             'anek': ['"Anek Telugu"', 'sans-serif']
         },
         "colors": colors,
+        screens: {
+            'xxs': '300px', // min-width
+        },
     },
     plugins: [
         require('flowbite/plugin')

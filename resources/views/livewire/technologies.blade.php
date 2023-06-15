@@ -1,5 +1,5 @@
-<div class="tech-section">
-    <div class="tech-section-container">
+<div class="tech-section ">
+    <div class="tech-section-container ">
         <div class="card" style="transform:rotate(-3.72427869407596deg);"><img src="https://static.adevait.com/2021/09/A-Complete-Guide-to-Deploying-Laravel-Applications-on-Virtual-Private-Servers-%E2%80%93-1-768x401.png" />
             <h2>Laravel</h2>
             <p> Free and open-source PHP web framework, Created by Taylor Otwell and intended
@@ -92,9 +92,9 @@
         }
     }
 
-    @media only screen and (max-width: 511px) {
+    @media only screen and (min-width: 300px) {
         .tech-section {
-            height: 1450px;
+            height: 1360px;
         }
     }
 </style>
