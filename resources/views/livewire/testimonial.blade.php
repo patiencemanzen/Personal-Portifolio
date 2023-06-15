@@ -3,7 +3,7 @@
         <div class="relative px-4 sm:px-8 lg:px-7">
             <div class="mx-auto max-w-2xl lg:max-w-7xl ">
                 <div class="grid grid-cols-1 gap-y-16 lg:grid-cols-2 lg:grid-rows-[auto_1fr] lg:gap-y-12">
-                    <div class="lg:pl-20 md:hidden sm:hidden xxs:hidden">
+                    <div class="lg:pl-20">
                         <div class="max-w-xs px-2.5 lg:max-w-none">
                             <a href="https://app.daily.dev/patienceman" class="">
                                 <img class=" rotate-3 rounded-2xl bg-zinc-100 object-cover dark:bg-zinc-800" src="https://api.daily.dev/devcards/f1a761a9aff34aef95d5b5ce7e2bc88b.png?r=ybt" width="400" alt="Manirabona Patience's Dev Card"/>

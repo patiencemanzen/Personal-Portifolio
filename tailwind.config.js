@@ -39,15 +39,12 @@ module.exports = {
             fontSize: {
                 '30xl': '20rem',
                 'heroSm': '40px',
-            },
+            }
         },
         fontFamily: {
             'anek': ['"Anek Telugu"', 'sans-serif']
         },
         "colors": colors,
-        screens: {
-            'xxs': '300px', // min-width
-        },
     },
     plugins: [
         require('flowbite/plugin')

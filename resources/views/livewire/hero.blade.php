@@ -1,6 +1,6 @@
 <section>
-    <div class="w-full relative pb-10 pt-32 px-6 xl:px-0 bg-[#10172a] h-[57rem] xxs:h-[65rem] xxs:overflow-hidden sm:pt-10">
-        <div class="3xl:container 3xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 xxs:py-6 xxs:px-6 py-9 px-4 pt-32 lg:flex items-center relative z-10 container mx-auto">
+    <div class="w-full relative pb-10 pt-32 px-6 xl:px-0 bg-[#10172a] h-[57rem] sm:pt-10">
+        <div class="3xl:container 3xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-40 lg:pt-40 lg:flex items-center relative z-10 container mx-auto">
             <div role="contentinfo" class="w-full lg:w-2/3">
                 <p tabindex="0" class="text-white uppercase text-2xl mb-4 font-bold">HI!, it's Me</p>
                 <h1 tabindex="0"

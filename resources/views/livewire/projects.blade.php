@@ -1,13 +1,13 @@
-<div class="overflow-hidden 2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 sm:py-5 sm:px-6 xxs:py-5 xxs:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto"
+<div class="overflow-hidden 2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 sm:py-5 sm:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto"
     style="margin-top: 5rem">
-    <p class="text-4xl font-bold max-w-5xl lg:text-7xl lg:pr-24 md:text-6xl sm:text-6xl xxs:text-4xl dark:text-white">
+    <p class="text-4xl font-bold max-w-5xl lg:text-7xl lg:pr-24 md:text-6xl sm:text-6xl dark:text-white">
         Things I’ve made <br /> <span class="text-highlight-third-900">Trying</span> to put my dent <br /> in <span
         class="text-highlight-third-900">the universe.</span>
     </p>
     <div class="hang-astro absolute right-0 top-0">
         <img src="/img/astro-3.png" alt="" class=" w-96">
     </div>
-    <p class="max-w-2xl text-md dark:text-gray-400 md:text-2xl sm:text-2xl xxs:text-xl xxs:mt-3 text-black">
+    <p class="max-w-2xl text-md dark:text-gray-400 md:text-2xl sm:text-2xl text-black">
         I’ve always been passionate about codes and design projects and haven’t stopped working and learning
         about new technologies .
         Other than sitting in from of my display, I enjoy myself in casual sports, such as bowling or playing
@@ -29,7 +29,7 @@
                             <img data-tooltip-target="tooltip-jese" class="w-12 h-12 rounded-full shadow-sm ring-2 ring-gray-700" src="https://patienceman.com/img/logos/logo-white.png" alt="Postapi logo">
                         </div>
                         <h2 class="mt-4 text-2xl font-semibold text-zinc-800 dark:text-zinc-100">
-                            <div class="absolute inset-x-4 inset-y-6 z-0 scale-95 bg-[#E4E4E7] opacity-1 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 xxs-inset-x-6 sm:rounded-2xl xxs:rounded-2xl xxs:bg-[#f2f2f4]">
+                            <div class="absolute inset-x-4 inset-y-6 z-0 scale-95 bg-[#E4E4E7] opacity-1 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6  sm:rounded-2xl">
                             </div>
                             <a href="https://postapis.netlify.app">
                                 <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
@@ -60,9 +60,9 @@
                             <img data-tooltip-target="tooltip-jese" class="w-12 h-12 rounded-full shadow-sm ring-2 ring-gray-700" src="https://patienceman.com/img/logos/logo-black.png" alt="Patienceman Blogs logo">
                         </div>
                         <h2 class="mt-4 text-2xl font-semibold text-zinc-800 dark:text-zinc-100">
-                            <div class="absolute inset-x-4 inset-y-6 z-0 scale-95 bg-[#E4E4E7] opacity-1 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl xxs:rounded-2xl xxs:bg-[#f2f2f4]">
+                            <div class="absolute inset-x-4 inset-y-6 z-0 scale-95 bg-[#E4E4E7] opacity-1 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl">
                             </div>
-                            <a href="https://locusnotes.patienceman.com">
+                            <a href="https://blog.patienceman.com">
                                 <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                                 <span class="relative z-10 ">LocusNotes</span>
                             </a>
@@ -78,7 +78,7 @@
                                     fill="currentColor">
                                 </path>
                             </svg>
-                            <span class="ml-2">locusnotes.patienceman.com</span>
+                            <span class="ml-2">blog.patienceman.com</span>
                         </p>
                     </li>
                     <li class="group relative flex flex-col items-start">
@@ -90,7 +90,7 @@
                             <img data-tooltip-target="tooltip-jese" class="w-12 h-12 rounded-full shadow-sm ring-2 ring-gray-700" src="https://pbs.twimg.com/profile_images/1568661207476740101/69zMvnai_400x400.jpg" alt="Patienceman Blogs logo">
                         </div>
                         <h2 class="mt-4 text-2xl font-semibold text-zinc-800 dark:text-zinc-100">
-                            <div class="absolute inset-x-4 inset-y-6 z-0 scale-95 bg-[#E4E4E7] opacity-1 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl xxs:rounded-2xl xxs:bg-[#f2f2f4]">
+                            <div class="absolute inset-x-4 inset-y-6 z-0 scale-95 bg-[#E4E4E7] opacity-1 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl">
                             </div>
                             <a href="https://vitaway.org">
                                 <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>

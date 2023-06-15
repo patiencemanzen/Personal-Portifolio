@@ -1,5 +1,5 @@
-<div class="tech-section ">
-    <div class="tech-section-container ">
+<div class="tech-stacks">
+    <div class="tech-stacks-container ">
         <div class="card" style="transform:rotate(-3.72427869407596deg);"><img src="https://static.adevait.com/2021/09/A-Complete-Guide-to-Deploying-Laravel-Applications-on-Virtual-Private-Servers-%E2%80%93-1-768x401.png" />
             <h2>Laravel</h2>
             <p> Free and open-source PHP web framework, Created by Taylor Otwell and intended
@@ -31,8 +31,8 @@
     </div>
 </div>
 <style>
-    .tech-section {
-        height: 250px;
+    .tech-stacks {
+        height: 250px !important;
         background: transparent;
         width: 100%;
         position: relative;
@@ -40,7 +40,7 @@
         align-items: center;
         justify-content: center;
     }
-    .tech-section-container {
+    .tech-stacks-container {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
         gap: 0rem;
@@ -51,7 +51,7 @@
         height: 100%
     }
 
-    .tech-section .card {
+    .tech-stacks .card {
         height: fit-content;
         display: flex;
         flex-direction: column;
@@ -61,14 +61,14 @@
         border-radius: 20px;
     }
 
-    .tech-section .card>img {
+    .tech-stacks .card>img {
         width: 100%;
         height: auto;
         aspect-ratio: 600/300;
         border-radius: 20px;
     }
 
-    .tech-section .card>h2 {
+    .tech-stacks .card>h2 {
         margin-top: 1rem;
         font-family: 'Anek Telugu', sans-serif;
         font-weight: 600;
@@ -77,7 +77,7 @@
         text-align: center;
     }
 
-    .tech-section .card>p {
+    .tech-stacks .card>p {
         font-family: 'Anek Telugu', sans-serif;
         font-size: 1rem;
         color: #5e5e89;
@@ -87,13 +87,19 @@
     }
 
     @media only screen and (max-width: 992px) {
-        .tech-section {
+        .tech-stacks {
             height: 660px;
         }
     }
 
+    @media only screen and (max-width: 511px) {
+        .tech-stacks {
+            height: 1450px;
+        }
+    }
+
     @media only screen and (min-width: 300px) {
-        .tech-section {
+        .tech-stacks {
             height: 1360px;
         }
     }

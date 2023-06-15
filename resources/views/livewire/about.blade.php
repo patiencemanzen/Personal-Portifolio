@@ -19,7 +19,7 @@
     </div>
 </div>
 <div class="professional">
-    <figure class="card">
+    <div class="tool-box">
         <img src="/img/profile.png" width="640" height="640" alt="Manirabona Patience at Google Developer Kigali DevFest" />
         <figcaption>
             <blockquote>
@@ -30,7 +30,7 @@
                 can often inspire new ideas and broaden <span class="text-highlight-secondary-900">the potential solution space.</span></cite>
             <p class="credit"> <strong>Google Developer Kigali DevFest</strong></p>
         </figcaption>
-    </figure>
+    </div>
 </div>
 <style>
     :root {
@@ -48,7 +48,7 @@
         display: flex;
         width: 100%;
         height: 82vh;
-        justify-content: center;
+        justify-content: center !important;
         align-items: center;
         font-family: 'Anek Telugu', sans-serif;
     }
@@ -59,7 +59,7 @@
         height: 100%;
     }
 
-    .professional .card {
+    .professional .tool-box {
         margin: 2rem;
         display: grid;
         grid-template-columns:
@@ -69,7 +69,7 @@
         max-width: 70rem;
     }
 
-    .professional .card::before {
+    .professional .tool-box::before {
         content: "";
         display: block;
         background: white;
@@ -81,7 +81,7 @@
         border-radius: 20px;
     }
 
-    .professional .card::after {
+    .professional .tool-box::after {
         content: "";
         display: block;
         background: #e0dde4;
@@ -93,7 +93,7 @@
         border-radius: 20px
     }
 
-    .professional .card img {
+    .professional .tool-box img {
         grid-column: 4/5;
         grid-row: 3/4;
         box-shadow: 0 0 1rem hsla(0, 0%, 0%, 0.3);
@@ -102,14 +102,14 @@
         border-radius: 10px;
     }
 
-    .professional .card figcaption {
+    .professional .tool-box figcaption {
         grid-column: 3/5;
         grid-row: 3/4;
         display: grid;
         grid-template-columns: 3fr 1fr 2fr;
     }
 
-    .professional .card blockquote {
+    .professional .tool-box blockquote {
         grid-column: 1/2;
         margin: 0;
         padding-bottom: 1rem;
@@ -119,7 +119,7 @@
         line-height: 3rem;
     }
 
-    .professional .card cite {
+    .professional .tool-box cite {
         grid-column: 1/2;
         font-size: 1.3rem;
         font-weight: 500;
@@ -127,7 +127,7 @@
         line-height: 26px;
     }
 
-    .professional .card .credit {
+    .professional .tool-box .credit {
         grid-column: 2/4;
         place-self: flex-end;
         margin: 0;
@@ -137,7 +137,7 @@
         font-weight: 400;
     }
 
-    .professional .card a {
+    .professional .tool-box a {
         color: white;
     }
 
@@ -155,7 +155,7 @@
 
     @media only screen and (min-width: 768px) {
         .professional {
-            margin: 0px 0px 0px 0px !important;
+            margin: 30px 0px 0px 0px !important;
             display: flex;
             width: 100%;
             height: 100vh;
