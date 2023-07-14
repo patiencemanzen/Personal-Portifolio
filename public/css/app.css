@@ -868,6 +868,9 @@ input:checked + .toggle-bg{
 .right-0{
   right: 0px;
 }
+.isolate{
+  isolation: isolate;
+}
 .z-20{
   z-index: 20;
 }
@@ -1322,6 +1325,14 @@ input:checked + .toggle-bg{
 }
 .bg-white\/50{
   background-color: rgb(255 255 255 / 0.5);
+}
+.bg-deep-text-900{
+  --tw-bg-opacity: 1;
+  background-color: rgb(114 172 254 / var(--tw-bg-opacity));
+}
+.bg-highlight-primary-900{
+  --tw-bg-opacity: 1;
+  background-color: rgb(126 231 135 / var(--tw-bg-opacity));
 }
 .bg-opacity-50{
   --tw-bg-opacity: 0.5;

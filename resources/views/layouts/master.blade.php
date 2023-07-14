@@ -7,12 +7,11 @@
     <meta name="author" content="Manirabona Patience" />
 
     <meta name="rating" content="adult" />
-    <meta name="description" content="Hi, i'm Manirabona Patience, am full-stack Engineer with Many years of experience in JavaScript, PHP, and SQL including some libraries and frameworks like In JavaScript(React js, vue js, node Js), and Also MongoDB, PHP (laravel and Symfony).  I’ve been collaborating and contributing with different Teams and companies to develop their products from ideas up to Marketplace including open source projects." />
-    <meta name="keywords" content="manirabona, patience, manirabona patience, patienceman, backend-developers, patience manirabona, laravel developer, vue.js developer, author, video editor, JavaScript developer, PHP developer, SQL developer" />
+    <meta name="description" content="Software Engineer with an insatiable curiosity and passion for the digital realm and various technological wonders, from obstacles into realities through lines of codes; sought to enhance boundaries and universe." />
+    <meta name="keywords" content="manirabona, patience, manirabona patience, patienceman, backend-developers, patience manirabona, laravel developer, vue.js developer, author, video editor, JavaScript developer, PHP developer, SQL developer, docker, kubernetes, typescript developer" />
     <meta name="rating" content="RTA-5042-1996-1400-1577-RTA" />
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="icon" type="image/x-icon" href="/img/logos/logo-black.png">
-
     <meta name="theme-color" content="#1e2a3b">
 
     <!-- Basic HTML Meta Tags -->
@@ -83,10 +82,10 @@
     <meta property='twitter:card' content='summary_large_image'>
     <meta property='twitter:site' content="Manirabona Patience's portifolio">
     <meta property='twitter:creator' content='Manirabona Patience'>
-    <meta property='twitter:description' content="Hi, i'm Manirabona Patience, am full-stack Engineer with Many years of experience in JavaScript, PHP, and SQL including some libraries and frameworks like In JavaScript(React js, vue js, node Js), and Also MongoDB, PHP (laravel and Symfony)">
+    <meta property='twitter:description' content="Software Engineer with an insatiable curiosity and passion for the digital realm and various technological wonders, from obstacles into realities through lines of codes; sought to enhance boundaries and universe.">
     <meta property='twitter:title' content="Manirabona Patience: Extraordinary individual known as developer">
     <meta property='twitter:image' content='{{ env('APP_URL')."/img/profile.png" }}'>
-    <meta property='twitter:image:alt' content="Hi, i'm Manirabona Patience, am full-stack Engineer with Many years of experience in JavaScript, PHP, and SQL including some libraries and frameworks like In JavaScript(React js, vue js, node Js), and Also MongoDB, PHP (laravel and Symfony)">
+    <meta property='twitter:image:alt' content="Extraordinary individual known as developer">
     <meta property="twitter:image:src" content="{{ env('APP_URL')."/img/profile.png" }}">
 
     <!-- App meta tags -->

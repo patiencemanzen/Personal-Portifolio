@@ -7,6 +7,7 @@
     <livewire:hero />
     <livewire:technologies />
     <livewire:about />
+    <livewire:dev-ops-stack />
     <livewire:projects />
     <livewire:testimonial />
 @stop

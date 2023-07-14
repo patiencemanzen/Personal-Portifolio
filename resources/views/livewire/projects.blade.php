@@ -48,7 +48,7 @@
                                     fill="currentColor">
                                 </path>
                             </svg>
-                            <span class="ml-2">postapis.netlify.app</span>
+                            <span class="ml-2">postapi.patienceman.com</span>
                         </p>
                     </li>
                     <li class="group relative flex flex-col items-start">
