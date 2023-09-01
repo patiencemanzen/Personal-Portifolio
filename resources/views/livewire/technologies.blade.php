@@ -1,8 +1,8 @@
-<div class="tech-stacks">
-    <div class="tech-stacks-container">
+<div class="base-stachs">
+    <div class="base-stachs-container">
         <div class="card" style="transform:rotate(-3.72427869407596deg);"><img src="https://static.adevait.com/2021/09/A-Complete-Guide-to-Deploying-Laravel-Applications-on-Virtual-Private-Servers-%E2%80%93-1-768x401.png" />
             <h2>Laravel</h2>
-            <p> Free and open-source PHP web framework, Created by Taylor Otwell and intended
+            <p> Free and open-source PHP web framework: Created by Taylor Otwell and intended
                 for the development of web applications following the model–view–controller (MVC)
                 architectural pattern and based on Symfony.
             </p>
@@ -31,44 +31,39 @@
     </div>
 </div>
 <style>
-    .tech-stacks {
-        height: 250px !important;
+    .base-stachs {
         background: transparent;
-        width: 100%;
         position: relative;
         display: flex;
         align-items: center;
         justify-content: center;
+        padding: 60px 40px 0px 40px;
     }
-    .tech-stacks-container {
+    .base-stachs-container {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
         gap: 0rem;
-        padding: 1rem;
-        position: absolute;
-        top: -115px;
         width: 90%;
-        height: 100%
     }
 
-    .tech-stacks .card {
+    .base-stachs .card {
         height: fit-content;
         display: flex;
         flex-direction: column;
         padding: 1rem 1rem 2rem;
-        background: #f8f3e8;
+        background: #fff;
         box-shadow: 0 0 40px rgba(0, 0, 0, 0.2), 0 0 40px rgba(0, 0, 0, 0.2);
         border-radius: 20px;
     }
 
-    .tech-stacks .card>img {
+    .base-stachs .card>img {
         width: 100%;
         height: auto;
         aspect-ratio: 600/300;
         border-radius: 20px;
     }
 
-    .tech-stacks .card>h2 {
+    .base-stachs .card>h2 {
         margin-top: 1rem;
         font-family: 'Anek Telugu', sans-serif;
         font-weight: 600;
@@ -77,30 +72,12 @@
         text-align: center;
     }
 
-    .tech-stacks .card>p {
+    .base-stachs .card>p {
         font-family: 'Anek Telugu', sans-serif;
         font-size: 1rem;
         color: #5e5e89;
         text-align: center;
         font-weight: 500;
         line-height: 20px
-    }
-
-    @media only screen and (max-width: 992px) {
-        .tech-stacks {
-            height: 660px;
-        }
-    }
-
-    @media only screen and (max-width: 511px) {
-        .tech-stacks {
-            height: 1450px;
-        }
-    }
-
-    @media only screen and (min-width: 300px) {
-        .tech-stacks {
-            height: 1360px;
-        }
     }
 </style>

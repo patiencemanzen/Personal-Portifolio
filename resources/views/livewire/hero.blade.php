@@ -1,14 +1,14 @@
 <section>
-    <div class="w-full relative pb-10 pt-32 px-6 xl:px-0 bg-[#10172a] h-[57rem] sm:pt-10">
+    <div class="relative pb-10 pt-32 px-6 xl:px-0  h-[57rem] sm:pt-10" style="background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .6)), url(/img/colorful.jpg); background-position: center;background-repeat: no-repeat;background-size: cover;">
         <div class="3xl:container 3xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-40 lg:pt-40 lg:flex items-center relative z-10 container mx-auto">
             <div role="contentinfo" class="w-full lg:w-2/3">
-                <p tabindex="0" class="text-white uppercase text-2xl mb-4 font-bold">HI!, it's Me</p>
+                <p tabindex="0" class="text-white uppercase text-2xl mb-4 font-calistoga font-normal">HI!, it's Me</p>
                 <h1 tabindex="0"
-                    class="hero-heading-text text-white font-anek lg:text-6xl font-black mb-8 bg-clip-text bg-gradient-to-r from-green-300 via-blue-500 to-purple-600">
-                    Manirabona Hirwa Patience, and Am <span class="text-highlight-third-900">Software Engineer</span>
+                    class="hero-heading-text text-white font-calistoga font-normal lg:text-6xl mb-10 bg-clip-text bg-gradient-to-r from-green-300 via-blue-500 to-purple-600">
+                    Manirabona Hirwa Patience, and Am <span class="text-highlight-third-900 font-calistoga font-normal">Software Engineer</span>
                 </h1>
                 <p tabindex="0"
-                    class="hero-heading-desc font-normal text-[#7d8590] dark:text-[#7d8590] font-regular mb-8">
+                    class="hero-heading-desc text-[#7d8590] dark:text-[#7d8590] font-anek font-normal mb-8">
                     With a years of experience in <span class="text-accent-primary-900">PHP and Javascript</span>,
                     Am passionate about <span class="text-accent-primary-900">creating quality applications</span>, and
                     Never tired of learning and building,
@@ -18,6 +18,9 @@
                         projects </span>.
                 </p>
             </div>
+            <div class="absolute w-72 h-72 right-5">
+                <img src="/img/Sal-Spaceship-Riding.svg" alt="">
+            </div>
             <img alt="" fetchpriority="high" width="530" height="530" decoding="async" data-nimg="1"
                 class="absolute -right-64 -top-64" style="color:transparent"
                 src="https://syntax.tailwindui.com/_next/static/media/blur-cyan.d28a5585.png"><img alt=""
@@ -26,8 +29,7 @@
                 src="https://syntax.tailwindui.com/_next/static/media/blur-indigo.b752cf77.png">
         </div>
 
-        <div
-            class="absolute inset-x-[-50vw] -bottom-48 -top-32 [mask-image:linear-gradient(transparent,white,white)] dark:[mask-image:linear-gradient(transparent,white,transparent)] lg:-bottom-32 lg:-top-32 lg:left-[calc(50%+14rem)] lg:right-0 lg:[mask-image:none] lg:dark:[mask-image:linear-gradient(white,white,transparent)]">
+        <div class="absolute  -bottom-48 -top-32 [mask-image:linear-gradient(transparent,white,white)] dark:[mask-image:linear-gradient(transparent,white,transparent)] lg:-bottom-32 lg:-top-32 lg:left-[calc(50%+14rem)] lg:right-0 lg:[mask-image:none] lg:dark:[mask-image:linear-gradient(white,white,transparent)]">
             <svg aria-hidden="true" viewBox="0 0 668 1069" width="668" height="1069" fill="none"
                 class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 lg:left-0 lg:translate-x-0 lg:translate-y-[-60%]">
                 <defs>

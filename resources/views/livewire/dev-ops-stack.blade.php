@@ -1,5 +1,5 @@
 <div class="tech-stacks">
-    <div class="tech-stacks-container">
+    <div class="tech-stack-wrapper">
         <div class="card" style="transform:rotate(-3.72427869407596deg);"><img src="https://crisp.chat/static/blog/content/images/size/w2000/2022/05/How-to-Migrate-a-large-project-from-Vue-2-to-Vue-3.jpg" />
             <h2>Vue Js</h2>
             <p> An open-source model–view–viewmodel front end JavaScript framework for building
@@ -32,23 +32,18 @@
 </div>
 <style>
     .tech-stacks {
-        height: 250px !important;
         background: transparent;
         width: 100%;
-        position: relative;
         display: flex;
         align-items: center;
         justify-content: center;
+        padding: 60px 40px 0px 40px;
     }
-    .tech-stacks-container {
+    .tech-stack-wrapper {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
         gap: 0rem;
-        padding: 1rem;
-        position: absolute;
-        top: -115px;
         width: 90%;
-        height: 100%
     }
 
     .tech-stacks .card {
@@ -56,7 +51,7 @@
         display: flex;
         flex-direction: column;
         padding: 1rem 1rem 2rem;
-        background: #f8f3e8;
+        background: #fff;
         box-shadow: 0 0 40px rgba(0, 0, 0, 0.2), 0 0 40px rgba(0, 0, 0, 0.2);
         border-radius: 20px;
     }
@@ -84,23 +79,5 @@
         text-align: center;
         font-weight: 500;
         line-height: 20px
-    }
-
-    @media only screen and (max-width: 992px) {
-        .tech-stacks {
-            height: 660px;
-        }
-    }
-
-    @media only screen and (max-width: 511px) {
-        .tech-stacks {
-            height: 1450px;
-        }
-    }
-
-    @media only screen and (min-width: 300px) {
-        .tech-stacks {
-            height: 1360px;
-        }
     }
 </style>
