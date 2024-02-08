@@ -1,4 +1,50 @@
+<div class="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 sm:py-3 sm:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto my-10">
+    <div class="lg:w-10/12 w-full z-10">
+        <h2 class="xl:w-8/12 lg:w-10/12 w-full font-bold text-gray-800 dark:text-white lg:text-6xl text-7xl leading-10 mt-5">
+            highly capable of handling <span class="text-highlight-third-900">complex problems </span> and creating <span class="text-highlight-third-900">innovative solutions</span>.
+        </h2>
+
+        <div class="hang-astro absolute right-20 top-20">
+            <div class="terminal">
+                <div class="container_terminal"></div>
+                <div class="terminal_toolbar">
+                    <div class="butt">
+                        <button class="btn btn-color"></button>
+                        <button class="btn"></button>
+                        <button class="btn"></button>
+                    </div>
+                    <p class="user">patienceman@admin: ~</p>
+                </div>
+                <div class="terminal_body">
+                    <div class="terminal_promt">
+                        <span class="terminal_user">patienceman@admin:</span>
+                        <span class="terminal_location">~</span>
+                        <span class="terminal_bling">$</span>
+                        <span class="terminal_cursor"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p class="font-normal max-w-2xl text-gray-600 dark:text-white mt-6 text-2xl leading-8">
+            I am actively seeking opportunities
+            to contribute my skills to experienced and advanced projects for success. I have developed the ability to search and parse
+            information quickly. I specialize in developing solutions to complex requirements using JavaScript, PHP, Laravel, React,
+            Node.js, and MySQL.
+        </p>
+    </div>
+</div>
+
 <div class="base-stachs">
+    <div class="absolute inset-x-0 top-0 items-center justify-center  md:flex md:inset-y-0">
+        <svg viewBox="0 0 88 88" class="w-full max-w-screen-xl text-highlight-third-300 opacity-20">
+          <circle fill="currentColor" cx="44" cy="44" r="15.5"></circle>
+          <circle fill-opacity="0.2" fill="currentColor" cx="44" cy="44" r="44"></circle>
+          <circle fill-opacity="0.2" fill="currentColor" cx="44" cy="44" r="37.5"></circle>
+          <circle fill-opacity="0.3" fill="currentColor" cx="44" cy="44" r="29.5"></circle>
+          <circle fill-opacity="0.3" fill="currentColor" cx="44" cy="44" r="22.5"></circle>
+        </svg>
+    </div>
     <div class="base-stachs-container">
         <div class="card" style="transform:rotate(-3.72427869407596deg);"><img src="https://static.adevait.com/2021/09/A-Complete-Guide-to-Deploying-Laravel-Applications-on-Virtual-Private-Servers-%E2%80%93-1-768x401.png" />
             <h2>Laravel</h2>
@@ -30,54 +76,3 @@
         </div>
     </div>
 </div>
-<style>
-    .base-stachs {
-        background: transparent;
-        position: relative;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        padding: 60px 40px 0px 40px;
-    }
-    .base-stachs-container {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
-        gap: 0rem;
-        width: 90%;
-    }
-
-    .base-stachs .card {
-        height: fit-content;
-        display: flex;
-        flex-direction: column;
-        padding: 1rem 1rem 2rem;
-        background: #fff;
-        box-shadow: 0 0 40px rgba(0, 0, 0, 0.2), 0 0 40px rgba(0, 0, 0, 0.2);
-        border-radius: 20px;
-    }
-
-    .base-stachs .card>img {
-        width: 100%;
-        height: auto;
-        aspect-ratio: 600/300;
-        border-radius: 20px;
-    }
-
-    .base-stachs .card>h2 {
-        margin-top: 1rem;
-        font-family: 'Anek Telugu', sans-serif;
-        font-weight: 600;
-        font-size: 2rem;
-        color: #4a4a7d;
-        text-align: center;
-    }
-
-    .base-stachs .card>p {
-        font-family: 'Anek Telugu', sans-serif;
-        font-size: 1rem;
-        color: #5e5e89;
-        text-align: center;
-        font-weight: 500;
-        line-height: 20px
-    }
-</style>

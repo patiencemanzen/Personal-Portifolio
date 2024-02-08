@@ -1,3 +1,16 @@
+<div class="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 sm:py-3 sm:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto my-10">
+    <div class="lg:w-10/12 w-full">
+        <h2 class="xl:w-8/12 lg:w-10/12 w-full font-bold text-gray-800 dark:text-white lg:text-6xl text-7xl  leading-10 mt-5">
+            I am an organized and quick-thinking problem solver
+        </h2>
+        <p class="font-normal text-gray-600 dark:text-white mt-6 text-2xl leading-8">
+            Who embraces software development projects with
+            high efficiency and professionalism. This makes me capable of building complex web applications and
+            collaborating with strong teams and leaders in different communities, companies, and societies since 2018.
+        </p>
+    </div>
+</div>
+
 <div class="tech-stacks">
     <div class="tech-stack-wrapper">
         <div class="card" style="transform:rotate(-3.72427869407596deg);"><img src="https://crisp.chat/static/blog/content/images/size/w2000/2022/05/How-to-Migrate-a-large-project-from-Vue-2-to-Vue-3.jpg" />
@@ -30,54 +43,3 @@
         </div>
     </div>
 </div>
-<style>
-    .tech-stacks {
-        background: transparent;
-        width: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        padding: 60px 40px 0px 40px;
-    }
-    .tech-stack-wrapper {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
-        gap: 0rem;
-        width: 90%;
-    }
-
-    .tech-stacks .card {
-        height: fit-content;
-        display: flex;
-        flex-direction: column;
-        padding: 1rem 1rem 2rem;
-        background: #fff;
-        box-shadow: 0 0 40px rgba(0, 0, 0, 0.2), 0 0 40px rgba(0, 0, 0, 0.2);
-        border-radius: 20px;
-    }
-
-    .tech-stacks .card>img {
-        width: 100%;
-        height: auto;
-        aspect-ratio: 600/300;
-        border-radius: 20px;
-    }
-
-    .tech-stacks .card>h2 {
-        margin-top: 1rem;
-        font-family: 'Anek Telugu', sans-serif;
-        font-weight: 600;
-        font-size: 2rem;
-        color: #4a4a7d;
-        text-align: center;
-    }
-
-    .tech-stacks .card>p {
-        font-family: 'Anek Telugu', sans-serif;
-        font-size: 1rem;
-        color: #5e5e89;
-        text-align: center;
-        font-weight: 500;
-        line-height: 20px
-    }
-</style>

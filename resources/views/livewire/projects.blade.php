@@ -1,5 +1,16 @@
-<div class="overflow-hidden 2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 sm:py-5 sm:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto"
+<div class="overflow-hidden border border-gray-200 border-x-0 2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 sm:py-5 sm:px-6 py-9 px-4 pt-32 items-center relative z-10 container mx-auto"
     style="margin-top: 5rem">
+
+    <div class="waver">
+        <div class="e-card playing">
+            <div class="image"></div>
+
+            <div class="wave"></div>
+            <div class="wave"></div>
+            <div class="wave"></div>
+        </div>
+    </div>
+
     <p class="text-4xl font-bold max-w-5xl lg:text-7xl lg:pr-24 md:text-6xl sm:text-6xl dark:text-white">
         Things I’ve made <br /> <span class="text-highlight-third-900">Trying</span> to put my dent <br /> in <span
         class="text-highlight-third-900">the universe.</span>

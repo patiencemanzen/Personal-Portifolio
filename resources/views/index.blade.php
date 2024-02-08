@@ -5,9 +5,11 @@
 @section('content')
     <livewire:navbar />
     <livewire:hero />
-    <livewire:technologies />
     <livewire:about />
+    <livewire:technologies />
     <livewire:dev-ops-stack />
+    <livewire:experience />
+    <livewire:education />
     <livewire:projects />
     <livewire:testimonial />
 @stop
