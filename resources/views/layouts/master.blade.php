@@ -126,7 +126,7 @@
         content="Backend Maestro: Laravel & Vue.js & Typescript Specialist | GraphQL & AI Enthusiast | Docker & Kubernetes Aficionado | Eager to Join Vibrant Team and Forces to convert a coffees Into Dreams and Realities, 👊🏾 Just by lines of codes.">
     <meta data-rh="true" name="referrer" content="safe-url">
 
-    <title> @yield('title') | portifolio | manirabona patience </title>
+    <title> @yield('title') | Manirabona Patience </title>
 
     @livewireStyles
 
