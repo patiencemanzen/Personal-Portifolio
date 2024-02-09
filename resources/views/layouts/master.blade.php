@@ -147,6 +147,8 @@
             document.documentElement.classList.remove('dark')
         }
     </script>
+
+    <link rel="canonical" href="{{ env('APP_URL') }}" />
 </head>
 
 <body class="dark:bg-[#10172a] overflow-x-hidden">
