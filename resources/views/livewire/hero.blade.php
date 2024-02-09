@@ -1,6 +1,6 @@
 <section>
     <div class="relative overflow-hidden pb-10 pt-32 px-6 xl:px-0 h-[40rem] sm:pt-10" style="background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .6)), url(/img/banner2.jpg); background-position: fixed;background-repeat: no-repeat;background-size: cover;">
-        <div class="3xl:container 3xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-44 lg:pt-44 lg:flex items-center relative z-10 container mx-auto">
+        <div class="3xl:container 3xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4 pt-40 lg:pt-40 lg:flex items-center relative z-10 container mx-auto">
             <div role="contentinfo" class="w-full lg:w-2/3">
                 <p tabindex="0" class="text-white uppercase text-2xl mb-4 font-calistoga font-normal">HI! 👋🏽, it's Me</p>
                 <h1 tabindex="0" class="hero-heading-text text-white font-calistoga font-normal lg:text-6xl mb-10 bg-clip-text bg-gradient-to-r from-green-300 via-blue-500 to-purple-600">
@@ -10,6 +10,10 @@
                     Backend Maestro: Laravel & Vue.js & Typescript Specialist | GraphQL & AI Enthusiast | Docker & Kubernetes Aficionado
                     | Eager a vibrant team and forces to convert a dreams & coffees Into realities, through lines of codes.
                 </p>
+
+                <div class="mt-5 location-card text-white font-calistoga font-normal">
+                    Based ⇒ Kigali City, Rwanda, East Africa
+                </div>
             </div>
             <img alt="" fetchpriority="high" width="530" height="530" decoding="async" data-nimg="1"
                 class="absolute -right-64 -top-64" style="color:transparent"

@@ -73,9 +73,9 @@
                         <h2 class="mt-4 text-2xl font-semibold text-zinc-800 dark:text-zinc-100">
                             <div class="absolute inset-x-4 inset-y-6 z-0 scale-95 bg-[#E4E4E7] opacity-1 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl">
                             </div>
-                            <a href="https://blog.patienceman.com">
+                            <a href="https://norldverse.patienceman.com">
                                 <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
-                                <span class="relative z-10 ">LocusNotes</span>
+                                <span class="relative z-10 ">Norldverse</span>
                             </a>
                         </h2>
                         <p class="relative z-10 mt-2 text-md dark:text-gray-800 md:text-md text-black leading-6">
@@ -89,7 +89,7 @@
                                     fill="currentColor">
                                 </path>
                             </svg>
-                            <span class="ml-2">blog.patienceman.com</span>
+                            <span class="ml-2">norldverse.patienceman.com</span>
                         </p>
                     </li>
                     <li class="group relative flex flex-col items-start">

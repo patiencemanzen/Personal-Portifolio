@@ -2,11 +2,10 @@
     style="margin-top: 5rem">
 
     <p class="font-bold mb-10 text-md leading-3 text-black-700 dark:text-indigo-500 hover:text-indigo-800 cursor-pointer">
-        Education Background!</p>
+        Throughout my journey,</p>
 
-    <p class="text-4xl font-bold max-w-5xl lg:text-7xl lg:pr-24 md:text-6xl sm:text-6xl dark:text-white">
-        Things I’ve made <br /> <span class="text-highlight-third-900">Trying</span> to put my dent <br /> in <span
-        class="text-highlight-third-900">the universe.</span>
+    <p class="text-4xl font-bold max-w-4xl lg:text-7xl lg:pr-24 md:text-6xl sm:text-6xl dark:text-white">
+        I have pursued different <span class="text-highlight-third-900">Educational</span> paths <br/> to learn <span class="text-highlight-third-900">programming</span>.</span>
     </p>
 
     <div class="hang-astro absolute right-10 -top-5 z-40">
@@ -15,7 +14,7 @@
                 <div class="glass"></div>
                 <div class="content">
                     <span class="title">Adventist University of Central Africa – AUCA</span>
-                    <span class="text">Create, share, and use beautiful custom elements made with CSS</span>
+                    <span class="text truncate w-10">It is a part of the Seventh-day Adventist education system, the world's second largest Christian school system.</span>
                 </div>
                 <div class="bottom">
 
@@ -34,10 +33,6 @@
                                 <path d="M524.531,69.836a1.5,1.5,0,0,0-.764-.7A485.065,485.065,0,0,0,404.081,32.03a1.816,1.816,0,0,0-1.923.91,337.461,337.461,0,0,0-14.9,30.6,447.848,447.848,0,0,0-134.426,0,309.541,309.541,0,0,0-15.135-30.6,1.89,1.89,0,0,0-1.924-.91A483.689,483.689,0,0,0,116.085,69.137a1.712,1.712,0,0,0-.788.676C39.068,183.651,18.186,294.69,28.43,404.354a2.016,2.016,0,0,0,.765,1.375A487.666,487.666,0,0,0,176.02,479.918a1.9,1.9,0,0,0,2.063-.676A348.2,348.2,0,0,0,208.12,430.4a1.86,1.86,0,0,0-1.019-2.588,321.173,321.173,0,0,1-45.868-21.853,1.885,1.885,0,0,1-.185-3.126c3.082-2.309,6.166-4.711,9.109-7.137a1.819,1.819,0,0,1,1.9-.256c96.229,43.917,200.41,43.917,295.5,0a1.812,1.812,0,0,1,1.924.233c2.944,2.426,6.027,4.851,9.132,7.16a1.884,1.884,0,0,1-.162,3.126,301.407,301.407,0,0,1-45.89,21.83,1.875,1.875,0,0,0-1,2.611,391.055,391.055,0,0,0,30.014,48.815,1.864,1.864,0,0,0,2.063.7A486.048,486.048,0,0,0,610.7,405.729a1.882,1.882,0,0,0,.765-1.352C623.729,277.594,590.933,167.465,524.531,69.836ZM222.491,337.58c-28.972,0-52.844-26.587-52.844-59.239S193.056,219.1,222.491,219.1c29.665,0,53.306,26.82,52.843,59.239C275.334,310.993,251.924,337.58,222.491,337.58Zm195.38,0c-28.971,0-52.843-26.587-52.843-59.239S388.437,219.1,417.871,219.1c29.667,0,53.307,26.82,52.844,59.239C470.715,310.993,447.538,337.58,417.871,337.58Z"></path>
                               </svg>
                           </button>
-                    </div>
-                    <div class="view-more">
-                        <button class="view-more-button">View more</button>
-                        <svg class="svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"></path></svg>
                     </div>
                 </div>
             </div>
@@ -50,7 +45,7 @@
                 <div class="glass"></div>
                 <div class="content">
                     <span class="title">World Mission High School</span>
-                    <span class="text">Create, share, and use beautiful custom elements made with CSS</span>
+                    <span class="text">A place of learning, fun, culture, lore, literature and many such life preaching activities.</span>
                 </div>
                 <div class="bottom">
 
@@ -70,19 +65,14 @@
                               </svg>
                           </button>
                     </div>
-                    <div class="view-more">
-                        <button class="view-more-button">View more</button>
-                        <svg class="svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"></path></svg>
-                    </div>
                 </div>
             </div>
         </div>
     </div>
 
     <p class="max-w-2xl text-md mt-10 dark:text-gray-400 md:text-2xl sm:text-2xl text-black">
-        I’ve always been passionate about codes and design projects and haven’t stopped working and learning
-        about new technologies .
-        Other than sitting in from of my display, I enjoy myself in casual sports, such as bowling or playing
-        basketball with friends.
+        I attended universities, and coding boot camps, and taught myself using online resources and tutorials.
+        I delved deep into the domains of programming languages, algorithms, and data structures, honing my
+        skills to transform complex concepts into lines of code.
     </p>
 </div>
